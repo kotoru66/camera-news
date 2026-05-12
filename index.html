@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<title>📷 カメラニュース</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: 'Helvetica Neue', Arial, 'Hiragino Sans', sans-serif;
+    background: #f0f2f5;
+    min-height: 100vh;
+    padding: 30px 20px;
+  }
+  .container { max-width: 820px; margin: 0 auto; }
+  header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 24px;
+  }
+  h1 { font-size: 24px; color: #111; }
+  h1 span { color: #e04040; }
+  .updated { font-size: 12px; color: #999; }
+  .reload-btn {
+    background: #e04040;
+    color: #fff;
+    border: none;
+    padding: 8px 18px;
+    border-radius: 20px;
+    font-size: 13px;
+    cursor: pointer;
+    transition: background 0.2s;
+  }
+  .reload-btn:hover { background: #c03030; }
+  .source-tabs {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+  }
+  .tab {
+    padding: 5px 14px;
+    border-radius: 16px;
+    font-size: 12px;
+    cursor: pointer;
+    border: 1px solid #ddd;
+    background: #fff;
+    color: #555;
+    transition: all 0.2s;
+  }
+  .tab.active { background: #e04040; color: #fff; border-color: #e04040; }
+  .news-item {
+    background: #fff;
+    border-radius: 10px;
+    padding: 18px 22px;
+    margin-bottom: 12px;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.07);
+    transition: transform 0.15s, box-shadow 0.15s;
+    cursor: pointer;
+  }
+  .news-item:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.12);
+  }
+  .news-item h2 {
+    font-size: 15px;
+    color: #111;
+    margin-bottom: 6px;
+    line-height: 1.5;
+  }
+  .news-meta { font-size: 12px; color: #999; margin-bottom: 6px; }
+  .news-item p { font-size: 13px; color: #555; line-height: 1.7; }
+  .tag {
+    display: inline-block;
+    color: #fff;
+    font-size: 10px;
+    padding: 2px 7px;
+    border-radius: 3px;
+    margin-right: 6px;
+    vertical-align: middle;
+  }
+  .loading {
+    text-align: center;
+    padding: 60px 20px;
+    color: #999;
+    font-size: 15px;
+  }
+  .spinner {
+    width: 36px; height: 36px;
+    border: 3px solid #eee;
+    border-top-color: #e04040;
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+    margin: 0 auto 16px;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  .error {
+    text-align: center;
+    padding: 40px;
+    color: #e04040;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.07);
+  }
+  footer { text-align: center; margin-top: 30px; font-size: 11px; color: #bbb; }
+</style>
+</head>
+<body>
+<div class="container">
+  <header>
+    <h1>📷 カメラ<span>ニュース</span></h1>
+    <div style="display:flex; align-items:center; gap:12px;">
+      <span class="updated" id="updated-time"></span>
+      <button class="reload-btn" onclick="loadAllNews()">🔄 更新</button>
+    </div>
+  </header>
+
+  <div class="source-tabs">
+    <div class="tab active" onclick="filterSource('all', this)">すべて</div>
+    <div class="tab" onclick="filterSource('dcwatch', this)">デジカメ Watch</div>
+    <div class="tab" onclick="filterSource('digicame', this)">デジカメinfo</div>
+    <div class="tab" onclick="filterSource('capa', this)">CAPA CAMERA WEB</div>
+    <div class="tab" onclick="filterSource('petapixel', this)">PetaPixel</div>
+  </div>
+
+  <div id="news-list">
+    <div class="loading">
+      <div class="spinner"></div>
+      ニュースを読み込んでいます...
+    </div>
+  </div>
+
+  <footer>デジカメ Watch・デジカメinfo・CAPA CAMERA WEB・PetaPixel のRSSフィードより自動取得</footer>
+</div>
+
+<script>
+const RSS2JSON = 'https://api.rss2json.com/v1/api.json?rss_url=';
+
+const FEEDS = [
+  {
+    name: 'デジカメ Watch',
+    key: 'dcwatch',
+    url: 'https://dc.watch.impress.co.jp/data/rss/1.0/dcw/feed.rdf',
+    color: '#0066cc'
+  },
+  {
+    name: 'デジカメinfo',
+    key: 'digicame',
+    url: 'https://digicame-info.com/atom.xml',
+    color: '#009944'
+  },
+  {
+    name: 'CAPA CAMERA WEB',
+    key: 'capa',
+    url: 'https://getnavi.jp/capa/feed/',
+    color: '#9b59b6'
+  },
+  {
+    name: 'PetaPixel',
+    key: 'petapixel',
+    url: 'https://petapixel.com/feed/',
+    color: '#cc6600'
+  }
+];
+
+let allItems = [];
+let currentFilter = 'all';
+
+async function fetchFeed(feed) {
+  try {
+    const res = await fetch(RSS2JSON + encodeURIComponent(feed.url));
+    const data = await res.json();
+    if (data.status !== 'ok') return [];
+    return (data.items || []).slice(0, 8).map(item => ({
+      source: feed.name,
+      key: feed.key,
+      color: feed.color,
+      title: item.title || '',
+      link: item.link || '#',
+      desc: (item.description || item.content || '')
+              .replace(/<[^>]+>/g, '').trim().substring(0, 130),
+      date: item.pubDate || ''
+    })).filter(i => i.title);
+  } catch (e) {
+    console.warn(feed.name + ' 取得失敗:', e);
+    return [];
+  }
+}
+
+function formatDate(dateStr) {
+  if (!dateStr) return '';
+  try {
+    const d = new Date(dateStr);
+    return `${d.getFullYear()}年${d.getMonth()+1}月${d.getDate()}日`;
+  } catch { return dateStr; }
+}
+
+function renderNews() {
+  const list = document.getElementById('news-list');
+  const filtered = currentFilter === 'all'
+    ? allItems
+    : allItems.filter(i => i.key === currentFilter);
+
+  if (filtered.length === 0) {
+    list.innerHTML = `
+      <div class="error">
+        ニュースを取得できませんでした。<br>
+        インターネット接続を確認して「🔄 更新」を押してください。
+      </div>`;
+    return;
+  }
+
+  list.innerHTML = filtered.map(item => `
+    <div class="news-item" onclick="window.open('${item.link}', '_blank')">
+      <h2>
+        <span class="tag" style="background:${item.color}">${item.source}</span>
+        ${item.title}
+      </h2>
+      <div class="news-meta">${formatDate(item.date)}</div>
+      ${item.desc ? `<p>${item.desc}...</p>` : ''}
+    </div>
+  `).join('');
+}
+
+function filterSource(key, el) {
+  currentFilter = key;
+  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+  el.classList.add('active');
+  renderNews();
+}
+
+async function loadAllNews() {
+  document.getElementById('news-list').innerHTML =
+    '<div class="loading"><div class="spinner"></div>ニュースを読み込んでいます...</div>';
+  allItems = [];
+
+  const results = await Promise.allSettled(FEEDS.map(fetchFeed));
+  results.forEach(r => {
+    if (r.status === 'fulfilled') allItems.push(...r.value);
+  });
+
+  allItems.sort((a, b) => new Date(b.date) - new Date(a.date));
+
+  const now = new Date();
+  document.getElementById('updated-time').textContent =
+    `更新: ${now.getHours()}:${String(now.getMinutes()).padStart(2,'0')}`;
+
+  renderNews();
+}
+
+loadAllNews();
+</script>
+</body>
+</html>
