@@ -120,6 +120,7 @@
     <div class="tab" onclick="filterSource('dcwatch', this)">デジカメ Watch</div>
     <div class="tab" onclick="filterSource('digicame', this)">デジカメinfo</div>
     <div class="tab" onclick="filterSource('capa', this)">CAPA CAMERA WEB</div>
+    <div class="tab" onclick="filterSource('shasha', this)">ShaSha</div>
     <div class="tab" onclick="filterSource('petapixel', this)">PetaPixel</div>
   </div>
 
@@ -130,7 +131,7 @@
     </div>
   </div>
 
-  <footer>デジカメ Watch・デジカメinfo・CAPA CAMERA WEB・PetaPixel のRSSフィードより自動取得</footer>
+  <footer>デジカメ Watch・デジカメinfo・CAPA CAMERA WEB・ShaSha・PetaPixel のRSSフィードより自動取得</footer>
 </div>
 
 <script>
@@ -154,6 +155,12 @@ const FEEDS = [
     key: 'capa',
     url: 'https://getnavi.jp/capa/feed/',
     color: '#9b59b6'
+  },
+  {
+    name: 'ShaSha',
+    key: 'shasha',
+    url: 'https://www.kitamura.jp/shasha/feed/',
+    color: '#e67e22'
   },
   {
     name: 'PetaPixel',
