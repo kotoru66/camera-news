@@ -135,63 +135,20 @@
 </div>
 
 <script>
-const RSS2JSON = 'https://api.rss2json.com/v1/api.json?rss_url=';
-
 const FEEDS = [
-  {
-    name: 'デジカメ Watch',
-    key: 'dcwatch',
-    url: 'https://dc.watch.impress.co.jp/data/rss/1.0/dcw/feed.rdf',
-    color: '#0066cc'
-  },
-  {
-    name: 'デジカメinfo',
-    key: 'digicame',
-    url: 'https://digicame-info.com/rss.xml',
-    color: '#009944'
-  },
-  {
-    name: 'CAPA CAMERA WEB',
-    key: 'capa',
-    url: 'https://getnavi.jp/capa/feed/',
-    color: '#9b59b6'
-  },
-  {
-    name: 'ShaSha',
-    key: 'shasha',
-    url: 'https://www.kitamura.jp/shasha/feed/',
-    color: '#e67e22'
-  },
-  {
-    name: 'PetaPixel',
-    key: 'petapixel',
-    url: 'https://petapixel.com/feed/',
-    color: '#cc6600'
-  }
+  { name: 'デジカメ Watch', key: 'dcwatch', color: '#0066cc' },
+  { name: 'デジカメinfo', key: 'digicame', color: '#009944' },
+  { name: 'CAPA CAMERA WEB', key: 'capa', color: '#9b59b6' },
+  { name: 'ShaSha', key: 'shasha', color: '#e67e22' },
+  { name: 'PetaPixel', key: 'petapixel', color: '#cc6600' }
 ];
 
 let allItems = [];
 let currentFilter = 'all';
 
-async function fetchFeed(feed) {
-  try {
-    const res = await fetch(RSS2JSON + encodeURIComponent(feed.url));
-    const data = await res.json();
-    if (data.status !== 'ok') return [];
-    return (data.items || []).slice(0, 8).map(item => ({
-      source: feed.name,
-      key: feed.key,
-      color: feed.color,
-      title: item.title || '',
-      link: item.link || '#',
-      desc: (item.description || item.content || '')
-              .replace(/<[^>]+>/g, '').trim().substring(0, 130),
-      date: item.pubDate || ''
-    })).filter(i => i.title);
-  } catch (e) {
-    console.warn(feed.name + ' 取得失敗:', e);
-    return [];
-  }
+function esc(s) {
+  return String(s).replace(/[&<>"']/g, c =>
+    ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 }
 
 function formatDate(dateStr) {
@@ -218,13 +175,13 @@ function renderNews() {
   }
 
   list.innerHTML = filtered.map(item => `
-    <div class="news-item" onclick="window.open('${item.link}', '_blank')">
+    <div class="news-item" data-link="${esc(item.link)}" onclick="window.open(this.dataset.link, '_blank', 'noopener')">
       <h2>
-        <span class="tag" style="background:${item.color}">${item.source}</span>
-        ${item.title}
+        <span class="tag" style="background:${item.color}">${esc(item.source)}</span>
+        ${esc(item.title)}
       </h2>
       <div class="news-meta">${formatDate(item.date)}</div>
-      ${item.desc ? `<p>${item.desc}...</p>` : ''}
+      ${item.desc ? `<p>${esc(item.desc)}...</p>` : ''}
     </div>
   `).join('');
 }
@@ -241,16 +198,19 @@ async function loadAllNews() {
     '<div class="loading"><div class="spinner"></div>ニュースを読み込んでいます...</div>';
   allItems = [];
 
-  const results = await Promise.allSettled(FEEDS.map(fetchFeed));
-  results.forEach(r => {
-    if (r.status === 'fulfilled') allItems.push(...r.value);
-  });
-
-  allItems.sort((a, b) => new Date(b.date) - new Date(a.date));
-
-  const now = new Date();
-  document.getElementById('updated-time').textContent =
-    `更新: ${now.getHours()}:${String(now.getMinutes()).padStart(2,'0')}`;
+  try {
+    const res = await fetch('news.json?t=' + Date.now());
+    const data = await res.json();
+    const byKey = Object.fromEntries(FEEDS.map(f => [f.key, f]));
+    allItems = data.items
+      .filter(i => byKey[i.key])
+      .map(i => ({ ...i, source: byKey[i.key].name, color: byKey[i.key].color }));
+    const d = new Date(data.updated);
+    document.getElementById('updated-time').textContent =
+      `更新: ${d.getMonth()+1}/${d.getDate()} ${d.getHours()}:${String(d.getMinutes()).padStart(2,'0')}`;
+  } catch (e) {
+    console.warn('news.json 取得失敗:', e);
+  }
 
   renderNews();
 }
