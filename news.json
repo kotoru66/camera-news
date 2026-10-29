@@ -1,7 +1,35 @@
 {
- "updated": "2026-10-29T14:19:15+00:00",
+ "updated": "2026-10-29T20:18:01+00:00",
  "failed": [],
  "items": [
+  {
+   "key": "petapixel",
+   "title": "Sirui’s First Swift Series Full-Frame Lenses Are Just $149",
+   "link": "https://petapixel.com/2026/10/29/siruis-first-swift-series-full-frame-lenses-are-just-149/",
+   "desc": "Sirui has announced a new series of compact full-frame autofocus lenses: Swift. The series kicks off with two primes: the Sirui Sw",
+   "date": "2026-10-29T18:43:39+00:00"
+  },
+  {
+   "key": "petapixel",
+   "title": "Digital Camera Sales Are Slumping Despite the Compact Camera Boom",
+   "link": "https://petapixel.com/2026/10/29/digital-camera-sales-are-slumping-despite-the-compact-camera-boom/",
+   "desc": "In 2025, global digital camera shipments increased for two years in a row for the first time in nearly two decades. With CIPA's Au",
+   "date": "2026-10-29T17:30:57+00:00"
+  },
+  {
+   "key": "petapixel",
+   "title": "The Lack of macOS on iPad Pro Is Starting To Feel Absurd",
+   "link": "https://petapixel.com/2026/10/29/the-lack-of-macos-on-ipad-pro-is-starting-to-feel-absurd/",
+   "desc": "Now that Apple has added touch to the MacBook Pro, it's time to ask again: Why can't we run macOS on the iPad Pro? [Read More]",
+   "date": "2026-10-29T15:35:23+00:00"
+  },
+  {
+   "key": "petapixel",
+   "title": "Leica’s New Flagship Store in London Comes With a Limited Edition M-A Camera",
+   "link": "https://petapixel.com/2026/10/29/leicas-new-flagship-store-in-london-comes-with-a-limited-edition-m-a-camera/",
+   "desc": "Leica has opened a swanky new flagship store in Central London, and 14 special-edition Leica M-A cameras are going on sale to mark",
+   "date": "2026-10-29T15:00:26+00:00"
+  },
   {
    "key": "petapixel",
    "title": "Mandler 50mm f/1.4 Pre-A Review: Looks and Feels Like a Leica for a Fraction of the Price",
@@ -36,13 +64,6 @@
    "link": "https://petapixel.com/2026/10/29/satellite-captures-photo-of-chinas-secretive-space-plane/",
    "desc": "The Defense Intelligence Agency (DIA) has released a high-resolution image of China’s secretive space plane taken by a satellite. ",
    "date": "2026-10-29T10:40:54+00:00"
-  },
-  {
-   "key": "petapixel",
-   "title": "Capture One Adds Stray Hair Removal and New Color Editing Tools",
-   "link": "https://petapixel.com/2026/10/29/capture-one-adds-stray-hair-removal-and-new-color-editing-tools/",
-   "desc": "Capture One 16.9 for desktop and 4.2 for mobile have arrived, bringing a wealth of improvements, from improved color editing and r",
-   "date": "2026-10-29T10:00:16+00:00"
   },
   {
    "key": "dcwatch",
@@ -101,13 +122,6 @@
    "date": "2026-10-29T04:11:07+00:00"
   },
   {
-   "key": "petapixel",
-   "title": "Nikon’s Nikkor Z 120-300mm f/2.8 TC VR S Picks Up Where a Legend Left Off",
-   "link": "https://petapixel.com/2026/10/28/nikons-nikkor-z-120-300mm-f-2-8-tc-vr-s-picks-up-where-a-legend-left-off/",
-   "desc": "Nikon has fully unveiled the Nikkor Z 120-300mm f/2.8 TC VR S, a new professional telephoto zoom lens for full-frame Nikon mirrorl",
-   "date": "2026-10-29T04:01:15+00:00"
-  },
-  {
    "key": "dcwatch",
    "title": "Mac初のタッチ操作に対応した「MacBook Pro」 タンデムOLED搭載で薄型軽量化 14インチと16インチを用意",
    "link": "https://dc.watch.impress.co.jp/docs/news/2152192.html",
@@ -127,20 +141,6 @@
    "link": "https://dc.watch.impress.co.jp/docs/enquete/2152127.html",
    "desc": "",
    "date": "2026-10-29T02:34:08+00:00"
-  },
-  {
-   "key": "petapixel",
-   "title": "Apple Isn’t Locking Peak MacBook Pro Performance Behind Touch OLED",
-   "link": "https://petapixel.com/2026/10/28/apple-isnt-locking-peak-macbook-pro-performance-behind-touch-oled/",
-   "desc": "Today, Apple announced a major shift in its laptop computing by adding touch to the MacBook Pro — a move famously despised by Stev",
-   "date": "2026-10-28T20:22:24+00:00"
-  },
-  {
-   "key": "petapixel",
-   "title": "Apple Unveils Its First-Ever MacBook Pro With a Touchscreen OLED",
-   "link": "https://petapixel.com/2026/10/28/apple-unveils-its-first-ever-macbook-pro-with-a-touchscreen-oled/",
-   "desc": "Apple has announced its first-ever touchscreen-equipped Macs. The redesigned MacBook Pro models are also Apple's first laptops wit",
-   "date": "2026-10-28T17:18:14+00:00"
   },
   {
    "key": "digicame",
