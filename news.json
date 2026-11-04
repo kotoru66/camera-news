@@ -1,7 +1,56 @@
 {
- "updated": "2026-11-04T09:11:34+00:00",
+ "updated": "2026-11-04T17:14:40+00:00",
  "failed": [],
  "items": [
+  {
+   "key": "petapixel",
+   "title": "This New E-Paper Lens Chart Is Built for Cinematographers",
+   "link": "https://petapixel.com/2026/11/04/this-new-e-paper-lens-chart-is-built-for-cinematographers/",
+   "desc": "Video productions can quickly become very complicated. A startup has a new e-paper display designed to keep things organized on se",
+   "date": "2026-11-04T16:00:29+00:00"
+  },
+  {
+   "key": "petapixel",
+   "title": "Canon Marks 15 Years of Its Cinema EOS System With Big Firmware Updates",
+   "link": "https://petapixel.com/2026/11/04/canon-marks-15-years-of-its-cinema-eos-system-with-big-firmware-updates/",
+   "desc": "It's a very busy day for Canon. In addition to marking the 15th anniversary of the Cinema EOS System, which began when the Canon 5",
+   "date": "2026-11-04T16:00:16+00:00"
+  },
+  {
+   "key": "petapixel",
+   "title": "From Spreadsheet to Studio: Inside a Commercial Production for Tempur-Pedic",
+   "link": "https://petapixel.com/2026/11/04/from-spreadsheet-to-studio-inside-a-commercial-production-for-tempur-pedic/",
+   "desc": "I ’ve photographed campaigns in some pretty unusual places over the years, from the highlands of Ethiopia to the plains of Iraq, a",
+   "date": "2026-11-04T15:57:18+00:00"
+  },
+  {
+   "key": "petapixel",
+   "title": "Lomography Launches Gold-Plated Point-and-Shoot Film Camera",
+   "link": "https://petapixel.com/2026/11/04/lomography-launches-gold-plated-point-and-shoot-film-camera/",
+   "desc": "The Lomography MC-A 35mm point-and-shoot camera is celebrating its first birthday in style with a pair of new limited-edition desi",
+   "date": "2026-11-04T14:12:26+00:00"
+  },
+  {
+   "key": "petapixel",
+   "title": "Photographer Risks It All to Capture Extreme Images Around the World",
+   "link": "https://petapixel.com/2026/11/04/photographer-risks-it-all-to-capture-extreme-images-around-the-world/",
+   "desc": "A photographer’s relentless pursuit of extraordinary images takes him from remote landscapes to some of the world’s most dangerous",
+   "date": "2026-11-04T14:00:50+00:00"
+  },
+  {
+   "key": "petapixel",
+   "title": "The Nikon ZR’s First Major Firmware Update Improves Video Quality and Adds More Control",
+   "link": "https://petapixel.com/2026/11/04/the-nikon-zrs-first-major-firmware-update-improves-video-quality-and-adds-more-control/",
+   "desc": "Nikon has unveiled more details about the Nikon ZR's first major firmware update. Firmware 2.00, slated to arrive before the end o",
+   "date": "2026-11-04T13:16:50+00:00"
+  },
+  {
+   "key": "digicame",
+   "title": "ライカM12はCCDセンサーのような色再現になる？（デジカメinfo）",
+   "link": "https://digicame-info.com/2026/11/m12ccd.html",
+   "desc": "Leica Rumorsに、ライカM12のスペックに関する噂の続報が掲載されています。",
+   "date": "2026-11-04T09:31:45+00:00"
+  },
   {
    "key": "capa",
    "title": "大型タッチパネルモニター初搭載のハイブリッド“チェキ”「instax mini Evo 2」レトロ感はそのままに機能と操作性アップ",
@@ -106,48 +155,6 @@
    "link": "https://petapixel.com/2026/11/03/adobe-is-bringing-licensed-music-to-premiere-mobile/",
    "desc": "Adobe Premiere mobile, which recently launched on Android after releasing last year on iOS, will soon include music from Universal",
    "date": "2026-11-03T21:56:14+00:00"
-  },
-  {
-   "key": "petapixel",
-   "title": "Nextorage Debuts New 1TB SD Card for Pro Video Work",
-   "link": "https://petapixel.com/2026/11/03/nextorage-debuts-new-1tb-sd-card-for-pro-video-work/",
-   "desc": "Nextorage Corporation has announced the NX-F2AE Series, a trio of new UHS-II SDXC memory cards that promise high-end speed and rel",
-   "date": "2026-11-03T21:35:17+00:00"
-  },
-  {
-   "key": "petapixel",
-   "title": "13 Winning Shots From Tecno’s Smartphone Photography Contest",
-   "link": "https://petapixel.com/2026/11/03/13-winning-shots-from-tecnos-smartphone-photography-contest/",
-   "desc": "Hong Kong smartphone maker Tecno has unveiled the winners of its third annual \"Shot On CAMON\" global photography contest. This yea",
-   "date": "2026-11-03T19:36:24+00:00"
-  },
-  {
-   "key": "petapixel",
-   "title": "A 3,200-Pound NASA Observatory Is Crashing Down to Earth",
-   "link": "https://petapixel.com/2026/11/03/a-3200-pound-nasa-observatory-is-crashing-down-to-earth/",
-   "desc": "NASA's longtime Neil Gehrels Swift Observatory is expected to re-enter Earth's atmosphere tomorrow, November 4. While most of the ",
-   "date": "2026-11-03T17:37:35+00:00"
-  },
-  {
-   "key": "petapixel",
-   "title": "Photographer Exposes AI-Generated Images in Another Photographer’s Portfolio",
-   "link": "https://petapixel.com/2026/11/03/photographer-exposes-ai-generated-images-in-another-photographers-portfolio/",
-   "desc": "Whitehaven is a picturesque town on the Cumbrian coast of England, not too far from the breathtaking Lake District National Park. ",
-   "date": "2026-11-03T16:33:55+00:00"
-  },
-  {
-   "key": "petapixel",
-   "title": "Peak Design Expands Its Electronics Line with Chargers, Batteries, and Cables",
-   "link": "https://petapixel.com/2026/11/03/peak-design-expands-its-electronics-line-with-chargers-batteries-and-cables/",
-   "desc": "Peak Design is expanding its electronics offering to what it describes as \"one of the most overlooked categories of everyday carry",
-   "date": "2026-11-03T16:08:27+00:00"
-  },
-  {
-   "key": "petapixel",
-   "title": "The Viral Photo of the Milwaukee Brewers’ World Series Win Is Now Immortalized On a Shirt",
-   "link": "https://petapixel.com/2026/11/03/the-viral-photo-of-the-milwaukee-brewers-world-series-win-is-now-immortalized-on-a-shirt/",
-   "desc": "Apparel brand Homage is living up to its name, putting arguably the defining photo from the Milwaukee Brewers' first-ever World Se",
-   "date": "2026-11-03T15:53:17+00:00"
   },
   {
    "key": "capa",
@@ -260,13 +267,6 @@
    "link": "https://www.kitamura.jp/shasha/article/how-to-shoot-cosmos-7-20261031/",
    "desc": "はじめに 暑かった夏が過ぎ、ようやく秋本番の気候になってきましたね。秋の代表的な花といえばコスモス。可憐で美しく、どこかノスタルジックなイメージのあるコスモスは、毎年撮りに行くという方もたくさんいらっしゃると思います。今 […]",
    "date": "2026-10-31T07:00:56+00:00"
-  },
-  {
-   "key": "digicame",
-   "title": "ニコンが2027年3月期の業績予想を下方修正（デジカメinfo）",
-   "link": "https://digicame-info.com/2026/10/20273q7.html",
-   "desc": "Yahooニュースに、ニコンが2027年3月期の業績予想を下方修正したという記事が掲載されています。",
-   "date": "2026-10-31T04:10:37+00:00"
   },
   {
    "key": "shasha",
