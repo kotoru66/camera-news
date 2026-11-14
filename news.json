@@ -1,6 +1,8 @@
 {
- "updated": "2026-11-14T17:07:51+00:00",
- "failed": [],
+ "updated": "2026-11-14T21:30:28+00:00",
+ "failed": [
+  "digicame"
+ ],
  "items": [
   {
    "key": "petapixel",
@@ -29,20 +31,6 @@
    "link": "https://petapixel.com/2026/11/14/how-understanding-animal-behavior-transforms-your-wildlife-photography/",
    "desc": "Wildlife photography is about more than finding an animal and capturing a sharp image. Understanding animal behavior helps photogr",
    "date": "2026-11-14T13:00:28+00:00"
-  },
-  {
-   "key": "digicame",
-   "title": "ソニー「α7SIV」は動画カメラから「S」本来の超高感度カメラに方向性を変えてくるのではないだろうか？（デジカメinfo）",
-   "link": "https://digicame-info.com/2026/11/7sivs.html",
-   "desc": "DigitalCameraWorldのポッドキャストで、ソニー「α7SIV」に関する議論がされています。",
-   "date": "2026-11-14T09:32:40+00:00"
-  },
-  {
-   "key": "digicame",
-   "title": "パナソニックのLマウントシネマカメラが間もなく発表される？（デジカメinfo）",
-   "link": "https://digicame-info.com/2026/11/l-25.html",
-   "desc": "L-rumorsに、パナソニックのLマウントの動画用カメラに関する噂が掲載されています。",
-   "date": "2026-11-14T07:37:10+00:00"
   },
   {
    "key": "dcwatch",
@@ -101,13 +89,6 @@
    "date": "2026-11-13T15:03:55+00:00"
   },
   {
-   "key": "digicame",
-   "title": "パナソニックとソニーの新型機が2027年初頭に発表される？（デジカメinfo）",
-   "link": "https://digicame-info.com/2026/11/2027.html",
-   "desc": "L-rumorsに、パナソニックとソニーの新製品の発表時期に関する噂が掲載されています。",
-   "date": "2026-11-13T12:48:40+00:00"
-  },
-  {
    "key": "dcwatch",
    "title": "フラワーパークかごしま、日本最大級の植物公園で約50万球のイルミネーション 休暇村指宿では宿泊者限定の無料直行バスが運行",
    "link": "https://dc.watch.impress.co.jp/docs/news/2156390.html",
@@ -157,13 +138,6 @@
    "date": "2026-11-13T06:45:00+00:00"
   },
   {
-   "key": "digicame",
-   "title": "Kマウントのディスコンになったレンズと現行レンズのリスト（デジカメinfo）",
-   "link": "https://digicame-info.com/2026/11/k-8.html",
-   "desc": "Pentax & Ricoh Rumorsに、Kマウントのディスコンになったレンズ、市場から消えつつあるレンズ、現行のレンズのリストが掲載されています。",
-   "date": "2026-11-13T04:00:42+00:00"
-  },
-  {
    "key": "capa",
    "title": "いつもの撮影をもっと快適に！ ニコンこだわりのスクエアフードなどオリジナルグッズ4アイテム発売",
    "link": "https://getnavi.jp/capa/news/510554/",
@@ -192,13 +166,6 @@
    "date": "2026-11-12T09:15:59+00:00"
   },
   {
-   "key": "digicame",
-   "title": "パナソニック「LUMIX S9II」の来春の発表は99%確実？（デジカメinfo）",
-   "link": "https://digicame-info.com/2026/11/lumix-s9ii99.html",
-   "desc": "独立写真家協会が、パナソニックの新型カメラに関する噂を投稿しています。",
-   "date": "2026-11-12T08:36:46+00:00"
-  },
-  {
    "key": "capa",
    "title": "レーシングカーに乗った気分になれる！ スーパー耐久最終戦にキヤノンがVR体験ブースを出展",
    "link": "https://getnavi.jp/capa/news/510686/",
@@ -211,13 +178,6 @@
    "link": "https://www.kitamura.jp/shasha/sony/fe-400mm-f4-5-gm-oss-20261112/",
    "desc": "はじめに ソニーGマスターブランドに一気に超望遠2モデルが加わった。FE 400mm F4.5 GM OSSとFE 600mm F6.3 GM OSSだ。いずれも白色の躯体に着脱可能な三脚座を備えるレンズで、フードやスイ […]",
    "date": "2026-11-12T07:00:22+00:00"
-  },
-  {
-   "key": "digicame",
-   "title": "キヤノンが他社と異なる方法でテレコンを内蔵した超望遠単焦点レンズを準備中？（デジカメinfo）",
-   "link": "https://digicame-info.com/2026/11/post-1971.html",
-   "desc": "Canon Rumorsに、キヤノンのテレコン内蔵の2本の超望遠単焦点レンズに関する噂が掲載されています。",
-   "date": "2026-11-12T04:45:14+00:00"
   },
   {
    "key": "capa",
@@ -239,20 +199,6 @@
    "link": "https://www.kitamura.jp/shasha/article/the-appeal-of-zines-20261111/",
    "desc": "はじめに 近年、写真やアート、イラストなどを自由な発想で一冊にまとめた「ZINE（ジン）」が注目を集めています。Googleトレンド※で国内の検索動向を調べると、「Zine」というキーワードへの関心は2025年頃から大き […]",
    "date": "2026-11-11T07:00:29+00:00"
-  },
-  {
-   "key": "digicame",
-   "title": "富士フイルム「X-T6」に新型の4000万画素センサーが採用される？（デジカメinfo）",
-   "link": "https://digicame-info.com/2026/11/x-t64000.html",
-   "desc": "Fuji Rumorsに、富士フイルム「X-T6」のセンサーに関する噂が掲載されています。",
-   "date": "2026-11-11T05:15:40+00:00"
-  },
-  {
-   "key": "digicame",
-   "title": "ニコンは全体では黒字転換したが映像事業は減収減益（デジカメinfo）",
-   "link": "https://digicame-info.com/2026/11/post-1970.html",
-   "desc": "財経新聞に、ニコンの主に映像事業に関する2027年3月期 第2四半期の決算の内容の分析記事が掲載されています。",
-   "date": "2026-11-10T08:44:39+00:00"
   },
   {
    "key": "capa",
