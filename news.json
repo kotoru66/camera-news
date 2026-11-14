@@ -1,9 +1,21 @@
 {
- "updated": "2026-11-13T22:37:34+00:00",
- "failed": [
-  "digicame"
- ],
+ "updated": "2026-11-14T03:15:35+00:00",
+ "failed": [],
  "items": [
+  {
+   "key": "dcwatch",
+   "title": "デジカメ動画Watch：冬のイルミネーションを「Osmo Pocket 4P」で撮る 六本木ヒルズけやき坂で試す“手持ち望遠夜景”",
+   "link": "https://dc.watch.impress.co.jp/docs/review/moviewatch/2156400.html",
+   "desc": "これからの季節、動画で撮影したい被写体といえばイルミネーションが挙がるだろう。イルミネーションの動画撮影も写真同様のテクニックで見栄えのする作品になる。",
+   "date": "2026-11-14T03:00:00+00:00"
+  },
+  {
+   "key": "shasha",
+   "title": "【鏡紅葉】鏡で表現する紅葉風景 -後編-",
+   "link": "https://www.kitamura.jp/shasha/nikon/mirror-maple-leaves-2-20261114/",
+   "desc": "はじめに 紅葉の形や色が水面や人工物に反射して写り込む風景を「鏡紅葉」と称して、リフレクション写真の撮り方のコツを2記事に渡って解説していきます。前編では鏡紅葉を撮るための基礎知識や光の向きによる写りの違いを解説しました […]",
+   "date": "2026-11-14T02:00:30+00:00"
+  },
   {
    "key": "dcwatch",
    "title": "岡嶋和幸の「あとで買う」 2,024点目：車のトランクルームでの三脚収納にぴったり - デジカメ Watch",
@@ -52,6 +64,13 @@
    "link": "https://petapixel.com/2026/11/13/the-best-deals-on-canon-cameras-and-lenses/",
    "desc": "With the holidays just around the corner, the deals are coming in full force. This week, we're focused on Canon gear, including di",
    "date": "2026-11-13T13:30:29+00:00"
+  },
+  {
+   "key": "digicame",
+   "title": "パナソニックとソニーの新型機が2027年初頭に発表される？（デジカメinfo）",
+   "link": "https://digicame-info.com/2026/11/2027.html",
+   "desc": "L-rumorsに、パナソニックとソニーの新製品の発表時期に関する噂が掲載されています。",
+   "date": "2026-11-13T12:48:40+00:00"
   },
   {
    "key": "petapixel",
@@ -124,11 +143,11 @@
    "date": "2026-11-13T06:33:22+00:00"
   },
   {
-   "key": "dcwatch",
-   "title": "ライカM-AとM11-Pに「ハンマートーン」モデル トップとベースに独特の凹凸のある質感 M11-Pはエッジが丸く",
-   "link": "https://dc.watch.impress.co.jp/docs/news/2156232.html",
-   "desc": "ライカカメラジャパン株式会社は、特別仕様モデル「ライカM-A ハンマートーン」と「ライカM11-P ハンマートーン」を11月13日（金）に発売した。ライカストア、ライカオンラインストア、ライカブティック、ライカ正規特約店で取り扱う。",
-   "date": "2026-11-13T04:12:06+00:00"
+   "key": "digicame",
+   "title": "Kマウントのディスコンになったレンズと現行レンズのリスト（デジカメinfo）",
+   "link": "https://digicame-info.com/2026/11/k-8.html",
+   "desc": "Pentax & Ricoh Rumorsに、Kマウントのディスコンになったレンズ、市場から消えつつあるレンズ、現行のレンズのリストが掲載されています。",
+   "date": "2026-11-13T04:00:42+00:00"
   },
   {
    "key": "capa",
@@ -159,6 +178,13 @@
    "date": "2026-11-12T09:15:59+00:00"
   },
   {
+   "key": "digicame",
+   "title": "パナソニック「LUMIX S9II」の来春の発表は99%確実？（デジカメinfo）",
+   "link": "https://digicame-info.com/2026/11/lumix-s9ii99.html",
+   "desc": "独立写真家協会が、パナソニックの新型カメラに関する噂を投稿しています。",
+   "date": "2026-11-12T08:36:46+00:00"
+  },
+  {
    "key": "capa",
    "title": "レーシングカーに乗った気分になれる！ スーパー耐久最終戦にキヤノンがVR体験ブースを出展",
    "link": "https://getnavi.jp/capa/news/510686/",
@@ -171,6 +197,13 @@
    "link": "https://www.kitamura.jp/shasha/sony/fe-400mm-f4-5-gm-oss-20261112/",
    "desc": "はじめに ソニーGマスターブランドに一気に超望遠2モデルが加わった。FE 400mm F4.5 GM OSSとFE 600mm F6.3 GM OSSだ。いずれも白色の躯体に着脱可能な三脚座を備えるレンズで、フードやスイ […]",
    "date": "2026-11-12T07:00:22+00:00"
+  },
+  {
+   "key": "digicame",
+   "title": "キヤノンが他社と異なる方法でテレコンを内蔵した超望遠単焦点レンズを準備中？（デジカメinfo）",
+   "link": "https://digicame-info.com/2026/11/post-1971.html",
+   "desc": "Canon Rumorsに、キヤノンのテレコン内蔵の2本の超望遠単焦点レンズに関する噂が掲載されています。",
+   "date": "2026-11-12T04:45:14+00:00"
   },
   {
    "key": "capa",
@@ -194,6 +227,20 @@
    "date": "2026-11-11T07:00:29+00:00"
   },
   {
+   "key": "digicame",
+   "title": "富士フイルム「X-T6」に新型の4000万画素センサーが採用される？（デジカメinfo）",
+   "link": "https://digicame-info.com/2026/11/x-t64000.html",
+   "desc": "Fuji Rumorsに、富士フイルム「X-T6」のセンサーに関する噂が掲載されています。",
+   "date": "2026-11-11T05:15:40+00:00"
+  },
+  {
+   "key": "digicame",
+   "title": "ニコンは全体では黒字転換したが映像事業は減収減益（デジカメinfo）",
+   "link": "https://digicame-info.com/2026/11/post-1970.html",
+   "desc": "財経新聞に、ニコンの主に映像事業に関する2027年3月期 第2四半期の決算の内容の分析記事が掲載されています。",
+   "date": "2026-11-10T08:44:39+00:00"
+  },
+  {
    "key": "capa",
    "title": "表参道にオープンしたDJIとハッセルブラッドの複合コンセプトストアへ行ってきた！ 両ブランドの世界観を同時に体感",
    "link": "https://getnavi.jp/capa/news/510343/",
@@ -208,6 +255,20 @@
    "date": "2026-11-10T07:00:54+00:00"
   },
   {
+   "key": "digicame",
+   "title": "各社の新製品に関するまとめといくつかの追加情報（デジカメinfo）",
+   "link": "https://digicame-info.com/2026/11/post-1969.html",
+   "desc": "SonyAlphaRumorsのYouTubeチャンネルで、近日中の発表が噂されているカメラメーカー各社の新製品に関する動画が公開されています。",
+   "date": "2026-11-09T16:11:53+00:00"
+  },
+  {
+   "key": "digicame",
+   "title": "ソニーが認証機関に新たな未発表カメラを登録（デジカメinfo）",
+   "link": "https://digicame-info.com/2026/11/post-1968.html",
+   "desc": "E8M_8888が、ソニーの新型カメラの登録情報を投稿しています。",
+   "date": "2026-11-09T09:02:50+00:00"
+  },
+  {
    "key": "shasha",
    "title": "キットレンズになった単焦点レンズ、キヤノン RF45mm F1.2 STMをレビューしてみよう",
    "link": "https://www.kitamura.jp/shasha/canon/rf45mm-f1-2-stm-4-20261109/",
@@ -220,13 +281,6 @@
    "link": "https://www.kitamura.jp/shasha/sony/seminar-17-20261109/",
    "desc": "セミナー内容 2026年11月28日(土)は、星景写真家の北山輝泰氏を講師にお迎えし、『ソニーαが広げる星空表現の可能性』をテーマに、ソニーαシリーズを使った星空撮影の魅力や、天文現象を美しく捉えるための撮影テクニックな […]",
    "date": "2026-11-09T02:00:08+00:00"
-  },
-  {
-   "key": "shasha",
-   "title": "2026年10月 交換レンズ 売れ筋ランキングを紹介！｜カメラのキタムラ",
-   "link": "https://www.kitamura.jp/shasha/article/lens-ranking-41-20261108/",
-   "desc": "1位 シグマ：18-50mm F2.8 DC DN Contemporary ソニーEマウント 2位 シグマ：28-70mm F2.8 DG DN Contemporary ソニーEマウント 3位 キヤノン：RF100- […]",
-   "date": "2026-11-08T07:00:45+00:00"
   }
  ]
 }
