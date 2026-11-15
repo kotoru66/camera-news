@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-15T01:55:09+00:00",
- "failed": [],
+ "updated": "2026-11-15T09:25:23+00:00",
+ "failed": [
+  "digicame"
+ ],
  "items": [
+  {
+   "key": "capa",
+   "title": "独特の風合いが美しい2つの特別モデル「ライカM-A ハンマートーン」「ライカM11-P ハンマートーン」",
+   "link": "https://getnavi.jp/capa/news/510907/",
+   "desc": "ライカカメラは、特別仕様のレンジファインダーカメラ「ライカM-A ハンマートーン」「ライカM11-P ハンマートーン」を2026年11月13日に発売しました。 それぞれ「ライカM-A」「ライカM11-P」を...",
+   "date": "2026-11-15T08:15:46+00:00"
+  },
+  {
+   "key": "dcwatch",
+   "title": "忘れられない1台～私の愛したデジタルカメラ～コニカミノルタα-7 DIGITAL",
+   "link": "https://dc.watch.impress.co.jp/docs/reader/memory/2156420.html",
+   "desc": "",
+   "date": "2026-11-15T03:00:00+00:00"
+  },
+  {
+   "key": "capa",
+   "title": "タフなバックパック「NYA-EVO Fjord」が北欧からやってきた！ 豊富なアクセサリーで収納の自由度アップ",
+   "link": "https://getnavi.jp/capa/news/510499/",
+   "desc": "H＆Y Filters Japanは、スウェーデンのカメラバッグブランド「NYA-EVO (ニア・イーボ)」の取り扱いを開始。バックパック「Fjord (フィヨルド」と専用インナーボックス、アクセサリーを2026年10月...",
+   "date": "2026-11-15T02:15:06+00:00"
+  },
   {
    "key": "capa",
    "title": "最大1万円還元！ Manfrotto、Gitzo、Loweproの三脚やカメラバッグがお得な「ヴィデンダム 冬のキャッシュバックキャンペーン 2026」",
@@ -50,20 +73,6 @@
    "link": "https://petapixel.com/2026/11/14/how-understanding-animal-behavior-transforms-your-wildlife-photography/",
    "desc": "Wildlife photography is about more than finding an animal and capturing a sharp image. Understanding animal behavior helps photogr",
    "date": "2026-11-14T13:00:28+00:00"
-  },
-  {
-   "key": "digicame",
-   "title": "ソニー「α7SIV」は動画カメラから「S」本来の超高感度カメラに方向性を変えてくるのではないだろうか？（デジカメinfo）",
-   "link": "https://digicame-info.com/2026/11/7sivs.html",
-   "desc": "DigitalCameraWorldのポッドキャストで、ソニー「α7SIV」に関する議論がされています。",
-   "date": "2026-11-14T09:32:40+00:00"
-  },
-  {
-   "key": "digicame",
-   "title": "パナソニックのLマウントシネマカメラが間もなく発表される？（デジカメinfo）",
-   "link": "https://digicame-info.com/2026/11/l-25.html",
-   "desc": "L-rumorsに、パナソニックのLマウントの動画用カメラに関する噂が掲載されています。",
-   "date": "2026-11-14T07:37:10+00:00"
   },
   {
    "key": "dcwatch",
@@ -122,13 +131,6 @@
    "date": "2026-11-13T15:03:55+00:00"
   },
   {
-   "key": "digicame",
-   "title": "パナソニックとソニーの新型機が2027年初頭に発表される？（デジカメinfo）",
-   "link": "https://digicame-info.com/2026/11/2027.html",
-   "desc": "L-rumorsに、パナソニックとソニーの新製品の発表時期に関する噂が掲載されています。",
-   "date": "2026-11-13T12:48:40+00:00"
-  },
-  {
    "key": "dcwatch",
    "title": "フラワーパークかごしま、日本最大級の植物公園で約50万球のイルミネーション 休暇村指宿では宿泊者限定の無料直行バスが運行",
    "link": "https://dc.watch.impress.co.jp/docs/news/2156390.html",
@@ -157,25 +159,11 @@
    "date": "2026-11-13T07:39:54+00:00"
   },
   {
-   "key": "dcwatch",
-   "title": "Datacolorの撮影用バランスカードに「グレー」と「ホワイト」 メインターゲットと6段階グレースケールを1枚に",
-   "link": "https://dc.watch.impress.co.jp/docs/news/2156321.html",
-   "desc": "イメージビジョン株式会社は、Datacolorの撮影用リファレンスカード「Spyder Checkr Photo グレーバランスカード」と「Spyder Checkr Photo ホワイトバランスカード」を11月18日（水）に発売する。価格は各4,250円。",
-   "date": "2026-11-13T07:11:33+00:00"
-  },
-  {
    "key": "shasha",
    "title": "ソニー α7 V × 風景ポートレート | これが欲しかった！これからの撮影スタンダード",
    "link": "https://www.kitamura.jp/shasha/sony/a7-v-9-20261113/",
    "desc": "はじめに｜α7 V導入に至るまで これまで私はSonyのα7 II,α7 III,α7 IVを使用してきました。 ミラーレス一眼カメラのスタンダードとも言えるα7シリーズを使い続けているからこそ、進化を毎回肌で感じていま […]",
    "date": "2026-11-13T07:00:16+00:00"
-  },
-  {
-   "key": "digicame",
-   "title": "Kマウントのディスコンになったレンズと現行レンズのリスト（デジカメinfo）",
-   "link": "https://digicame-info.com/2026/11/k-8.html",
-   "desc": "Pentax & Ricoh Rumorsに、Kマウントのディスコンになったレンズ、市場から消えつつあるレンズ、現行のレンズのリストが掲載されています。",
-   "date": "2026-11-13T04:00:42+00:00"
   },
   {
    "key": "capa",
@@ -206,13 +194,6 @@
    "date": "2026-11-12T09:15:59+00:00"
   },
   {
-   "key": "digicame",
-   "title": "パナソニック「LUMIX S9II」の来春の発表は99%確実？（デジカメinfo）",
-   "link": "https://digicame-info.com/2026/11/lumix-s9ii99.html",
-   "desc": "独立写真家協会が、パナソニックの新型カメラに関する噂を投稿しています。",
-   "date": "2026-11-12T08:36:46+00:00"
-  },
-  {
    "key": "capa",
    "title": "レーシングカーに乗った気分になれる！ スーパー耐久最終戦にキヤノンがVR体験ブースを出展",
    "link": "https://getnavi.jp/capa/news/510686/",
@@ -227,46 +208,11 @@
    "date": "2026-11-12T07:00:22+00:00"
   },
   {
-   "key": "digicame",
-   "title": "キヤノンが他社と異なる方法でテレコンを内蔵した超望遠単焦点レンズを準備中？（デジカメinfo）",
-   "link": "https://digicame-info.com/2026/11/post-1971.html",
-   "desc": "Canon Rumorsに、キヤノンのテレコン内蔵の2本の超望遠単焦点レンズに関する噂が掲載されています。",
-   "date": "2026-11-12T04:45:14+00:00"
-  },
-  {
-   "key": "capa",
-   "title": "カメラバッグや撮影アイテムが最大80％OFF！ VANGUARDがブラックフライデーセール開催",
-   "link": "https://getnavi.jp/capa/news/510657/",
-   "desc": "ガードフォースジャパンは、VANGUARD (バンガード) の対象製品を最大80％OFFで販売する「ブラックフライデーセール」を2026年11月12日に開始しました。期間は11月25日まで。 期間中は、VA...",
-   "date": "2026-11-12T02:15:05+00:00"
-  },
-  {
-   "key": "capa",
-   "title": "掘り出し物を見つけよう！ 希少なカメラやレンズが集う「池袋クラシックカメラ博」11/12から開催",
-   "link": "https://getnavi.jp/capa/news/510632/",
-   "desc": "「池袋クラシックカメラ博」が、2026年11月12日〜16日に東武百貨店 池袋店にて開催されます。 「池袋クラシックカメラ博」は、写真機商振興会が主催する毎年恒例のイベント。国内外のクラシックカメラ・レンズ...",
-   "date": "2026-11-11T08:45:48+00:00"
-  },
-  {
    "key": "shasha",
    "title": "今、注目のZINEとは？ 自由な表現と一冊の作品に出会う楽しさ｜flotsam books 小林孝行さんへインタビュー",
    "link": "https://www.kitamura.jp/shasha/article/the-appeal-of-zines-20261111/",
    "desc": "はじめに 近年、写真やアート、イラストなどを自由な発想で一冊にまとめた「ZINE（ジン）」が注目を集めています。Googleトレンド※で国内の検索動向を調べると、「Zine」というキーワードへの関心は2025年頃から大き […]",
    "date": "2026-11-11T07:00:29+00:00"
-  },
-  {
-   "key": "digicame",
-   "title": "富士フイルム「X-T6」に新型の4000万画素センサーが採用される？（デジカメinfo）",
-   "link": "https://digicame-info.com/2026/11/x-t64000.html",
-   "desc": "Fuji Rumorsに、富士フイルム「X-T6」のセンサーに関する噂が掲載されています。",
-   "date": "2026-11-11T05:15:40+00:00"
-  },
-  {
-   "key": "digicame",
-   "title": "ニコンは全体では黒字転換したが映像事業は減収減益（デジカメinfo）",
-   "link": "https://digicame-info.com/2026/11/post-1970.html",
-   "desc": "財経新聞に、ニコンの主に映像事業に関する2027年3月期 第2四半期の決算の内容の分析記事が掲載されています。",
-   "date": "2026-11-10T08:44:39+00:00"
   },
   {
    "key": "shasha",
