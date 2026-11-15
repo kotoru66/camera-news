@@ -1,9 +1,28 @@
 {
- "updated": "2026-11-14T21:30:28+00:00",
- "failed": [
-  "digicame"
- ],
+ "updated": "2026-11-15T01:55:09+00:00",
+ "failed": [],
  "items": [
+  {
+   "key": "capa",
+   "title": "最大1万円還元！ Manfrotto、Gitzo、Loweproの三脚やカメラバッグがお得な「ヴィデンダム 冬のキャッシュバックキャンペーン 2026」",
+   "link": "https://getnavi.jp/capa/news/510883/",
+   "desc": "ヴィデンダムは、Manfrotto (マンフロット)、Gitzo (ジッツオ)、Lowepro (ロープロ) の対象製品購入者に最大10,000円をキャッシュバックする「ヴィデンダム 冬のキャッシュバックキャンペーン 2...",
+   "date": "2026-11-15T01:15:01+00:00"
+  },
+  {
+   "key": "shasha",
+   "title": "シグマ 70-200mm F2.8 DG DN OS Sports レビュー｜高い質感と描写力から“シグマの本気”を感じる",
+   "link": "https://www.kitamura.jp/shasha/sigma/70-200mm-f2-8-dg-dn-os-sports-3-20261115/",
+   "desc": "はじめに 今回紹介するシグマ70-200mm F2.8 DG DN OS | Sports（以下・本レンズ）は2023年12月の発売。記事公開時点ではもうすぐ3年を迎えるところだ。その後もシグマからはさまざまな個性的なレ […]",
+   "date": "2026-11-15T01:00:06+00:00"
+  },
+  {
+   "key": "dcwatch",
+   "title": "岡嶋和幸の「あとで買う」 2,025点目：座席に機材などを載せるときの汚れ防止に便利 - デジカメ Watch",
+   "link": "https://dc.watch.impress.co.jp/docs/column/okajima/2156516.html",
+   "desc": "ネットショップのカートの中にある「あとで買う」には、様子見をしているなど気になるアイテムがたくさん入っています。この連載では、フォトライフに関連する製品を中心にその中身をお届けします。どのような物に興味を持ち、どのような視点で選んでいるのかなど、日々の物欲をお",
+   "date": "2026-11-14T22:00:00+00:00"
+  },
   {
    "key": "petapixel",
    "title": "Bangladeshi Photographer wins $200,000 for “Family” in the World’s Richest $1 Million Photo Contest",
@@ -31,6 +50,20 @@
    "link": "https://petapixel.com/2026/11/14/how-understanding-animal-behavior-transforms-your-wildlife-photography/",
    "desc": "Wildlife photography is about more than finding an animal and capturing a sharp image. Understanding animal behavior helps photogr",
    "date": "2026-11-14T13:00:28+00:00"
+  },
+  {
+   "key": "digicame",
+   "title": "ソニー「α7SIV」は動画カメラから「S」本来の超高感度カメラに方向性を変えてくるのではないだろうか？（デジカメinfo）",
+   "link": "https://digicame-info.com/2026/11/7sivs.html",
+   "desc": "DigitalCameraWorldのポッドキャストで、ソニー「α7SIV」に関する議論がされています。",
+   "date": "2026-11-14T09:32:40+00:00"
+  },
+  {
+   "key": "digicame",
+   "title": "パナソニックのLマウントシネマカメラが間もなく発表される？（デジカメinfo）",
+   "link": "https://digicame-info.com/2026/11/l-25.html",
+   "desc": "L-rumorsに、パナソニックのLマウントの動画用カメラに関する噂が掲載されています。",
+   "date": "2026-11-14T07:37:10+00:00"
   },
   {
    "key": "dcwatch",
@@ -89,6 +122,13 @@
    "date": "2026-11-13T15:03:55+00:00"
   },
   {
+   "key": "digicame",
+   "title": "パナソニックとソニーの新型機が2027年初頭に発表される？（デジカメinfo）",
+   "link": "https://digicame-info.com/2026/11/2027.html",
+   "desc": "L-rumorsに、パナソニックとソニーの新製品の発表時期に関する噂が掲載されています。",
+   "date": "2026-11-13T12:48:40+00:00"
+  },
+  {
    "key": "dcwatch",
    "title": "フラワーパークかごしま、日本最大級の植物公園で約50万球のイルミネーション 休暇村指宿では宿泊者限定の無料直行バスが運行",
    "link": "https://dc.watch.impress.co.jp/docs/news/2156390.html",
@@ -131,11 +171,11 @@
    "date": "2026-11-13T07:00:16+00:00"
   },
   {
-   "key": "dcwatch",
-   "title": "スマート望遠鏡のエントリーモデル「Seestar S30 Plus」 望遠・広角のデュアルレンズ 1.65kgで光害カットフィルター内蔵",
-   "link": "https://dc.watch.impress.co.jp/docs/news/2156311.html",
-   "desc": "株式会社ビクセンは、ZWO社製のスマート天体望遠鏡「Seestar S30 Plus」を11月20日（金）に発売する。価格はオープン。11月6日（金）に国内での取り扱いを発表していた製品で、このたび発売日が決まった。",
-   "date": "2026-11-13T06:45:00+00:00"
+   "key": "digicame",
+   "title": "Kマウントのディスコンになったレンズと現行レンズのリスト（デジカメinfo）",
+   "link": "https://digicame-info.com/2026/11/k-8.html",
+   "desc": "Pentax & Ricoh Rumorsに、Kマウントのディスコンになったレンズ、市場から消えつつあるレンズ、現行のレンズのリストが掲載されています。",
+   "date": "2026-11-13T04:00:42+00:00"
   },
   {
    "key": "capa",
@@ -166,6 +206,13 @@
    "date": "2026-11-12T09:15:59+00:00"
   },
   {
+   "key": "digicame",
+   "title": "パナソニック「LUMIX S9II」の来春の発表は99%確実？（デジカメinfo）",
+   "link": "https://digicame-info.com/2026/11/lumix-s9ii99.html",
+   "desc": "独立写真家協会が、パナソニックの新型カメラに関する噂を投稿しています。",
+   "date": "2026-11-12T08:36:46+00:00"
+  },
+  {
    "key": "capa",
    "title": "レーシングカーに乗った気分になれる！ スーパー耐久最終戦にキヤノンがVR体験ブースを出展",
    "link": "https://getnavi.jp/capa/news/510686/",
@@ -178,6 +225,13 @@
    "link": "https://www.kitamura.jp/shasha/sony/fe-400mm-f4-5-gm-oss-20261112/",
    "desc": "はじめに ソニーGマスターブランドに一気に超望遠2モデルが加わった。FE 400mm F4.5 GM OSSとFE 600mm F6.3 GM OSSだ。いずれも白色の躯体に着脱可能な三脚座を備えるレンズで、フードやスイ […]",
    "date": "2026-11-12T07:00:22+00:00"
+  },
+  {
+   "key": "digicame",
+   "title": "キヤノンが他社と異なる方法でテレコンを内蔵した超望遠単焦点レンズを準備中？（デジカメinfo）",
+   "link": "https://digicame-info.com/2026/11/post-1971.html",
+   "desc": "Canon Rumorsに、キヤノンのテレコン内蔵の2本の超望遠単焦点レンズに関する噂が掲載されています。",
+   "date": "2026-11-12T04:45:14+00:00"
   },
   {
    "key": "capa",
@@ -201,11 +255,18 @@
    "date": "2026-11-11T07:00:29+00:00"
   },
   {
-   "key": "capa",
-   "title": "表参道にオープンしたDJIとハッセルブラッドの複合コンセプトストアへ行ってきた！ 両ブランドの世界観を同時に体感",
-   "link": "https://getnavi.jp/capa/news/510343/",
-   "desc": "2026年10月31日、東京・表参道エリアに「DJI | Hasselblad Authorized Concept Store 東京表参道」がグランドオープンした。 DJIとHasselbladの世界観を同時に体感でき...",
-   "date": "2026-11-10T08:15:11+00:00"
+   "key": "digicame",
+   "title": "富士フイルム「X-T6」に新型の4000万画素センサーが採用される？（デジカメinfo）",
+   "link": "https://digicame-info.com/2026/11/x-t64000.html",
+   "desc": "Fuji Rumorsに、富士フイルム「X-T6」のセンサーに関する噂が掲載されています。",
+   "date": "2026-11-11T05:15:40+00:00"
+  },
+  {
+   "key": "digicame",
+   "title": "ニコンは全体では黒字転換したが映像事業は減収減益（デジカメinfo）",
+   "link": "https://digicame-info.com/2026/11/post-1970.html",
+   "desc": "財経新聞に、ニコンの主に映像事業に関する2027年3月期 第2四半期の決算の内容の分析記事が掲載されています。",
+   "date": "2026-11-10T08:44:39+00:00"
   },
   {
    "key": "shasha",
@@ -220,13 +281,6 @@
    "link": "https://www.kitamura.jp/shasha/canon/rf45mm-f1-2-stm-4-20261109/",
    "desc": "はじめに こんにちは。杉本です。 今回はキヤノン RF45mm F1.2 STMのレビューです。最近EOS R8 Mark IIが発売されました。ボディ単体の他にズームレンズキットと単焦点キットの2パターンがあるのですが […]",
    "date": "2026-11-09T07:00:06+00:00"
-  },
-  {
-   "key": "shasha",
-   "title": "ソニー プロカメラマン オンラインセミナー＆α体験会を2週連続開催！11月28日は北山輝泰氏、12月5日は蒼井ゆい氏が登壇｜全国のカメラのキタムラ39店舗でライブ中継！",
-   "link": "https://www.kitamura.jp/shasha/sony/seminar-17-20261109/",
-   "desc": "セミナー内容 2026年11月28日(土)は、星景写真家の北山輝泰氏を講師にお迎えし、『ソニーαが広げる星空表現の可能性』をテーマに、ソニーαシリーズを使った星空撮影の魅力や、天文現象を美しく捉えるための撮影テクニックな […]",
-   "date": "2026-11-09T02:00:08+00:00"
   }
  ]
 }
