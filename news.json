@@ -1,9 +1,14 @@
 {
- "updated": "2026-11-15T17:10:53+00:00",
- "failed": [
-  "digicame"
- ],
+ "updated": "2026-11-15T21:48:39+00:00",
+ "failed": [],
  "items": [
+  {
+   "key": "digicame",
+   "title": "パナソニックのLマウントシネマカメラは新型センサーを搭載？（デジカメinfo）",
+   "link": "https://digicame-info.com/2026/11/post-1972.html",
+   "desc": "L-rumorsに、パナソニックの新しいLマウントシネマカメラのスペックなどに関する情報が掲載されています。",
+   "date": "2026-11-15T16:37:34+00:00"
+  },
   {
    "key": "petapixel",
    "title": "Photographer’s Dog Show Pictures Pose the Question: What Is a Proper Dog?",
@@ -31,6 +36,13 @@
    "link": "https://getnavi.jp/capa/news/510907/",
    "desc": "ライカカメラは、特別仕様のレンジファインダーカメラ「ライカM-A ハンマートーン」「ライカM11-P ハンマートーン」を2026年11月13日に発売しました。 それぞれ「ライカM-A」「ライカM11-P」を...",
    "date": "2026-11-15T08:15:46+00:00"
+  },
+  {
+   "key": "digicame",
+   "title": "パナソニックが11月17日にLマウントシネマカメラを発表？（デジカメinfo）",
+   "link": "https://digicame-info.com/2026/11/1117l.html",
+   "desc": "L-rumorsに、パナソニックのLマウントシネマカメラに関する噂の続報が掲載されています。",
+   "date": "2026-11-15T04:36:30+00:00"
   },
   {
    "key": "dcwatch",
@@ -96,6 +108,20 @@
    "date": "2026-11-14T13:00:28+00:00"
   },
   {
+   "key": "digicame",
+   "title": "ソニー「α7SIV」は動画カメラから「S」本来の超高感度カメラに方向性を変えてくるのではないだろうか？（デジカメinfo）",
+   "link": "https://digicame-info.com/2026/11/7sivs.html",
+   "desc": "DigitalCameraWorldのポッドキャストで、ソニー「α7SIV」に関する議論がされています。",
+   "date": "2026-11-14T09:32:40+00:00"
+  },
+  {
+   "key": "digicame",
+   "title": "パナソニックのLマウントシネマカメラが間もなく発表される？（デジカメinfo）",
+   "link": "https://digicame-info.com/2026/11/l-25.html",
+   "desc": "L-rumorsに、パナソニックのLマウントの動画用カメラに関する噂が掲載されています。",
+   "date": "2026-11-14T07:37:10+00:00"
+  },
+  {
    "key": "dcwatch",
    "title": "忘れられない1台～私の愛したデジタルカメラ～パナソニック LUMIX DMC-FT1",
    "link": "https://dc.watch.impress.co.jp/docs/reader/memory/2156425.html",
@@ -129,6 +155,13 @@
    "link": "https://petapixel.com/2026/11/13/i-spent-four-days-with-the-leica-q3-43-f1-camera/",
    "desc": "Formula One has changed a lot since I’ve been watching. People used to look at me strangely when I said I enjoyed watching race ca",
    "date": "2026-11-13T18:36:25+00:00"
+  },
+  {
+   "key": "digicame",
+   "title": "パナソニックとソニーの新型機が2027年初頭に発表される？（デジカメinfo）",
+   "link": "https://digicame-info.com/2026/11/2027.html",
+   "desc": "L-rumorsに、パナソニックとソニーの新製品の発表時期に関する噂が掲載されています。",
+   "date": "2026-11-13T12:48:40+00:00"
   },
   {
    "key": "dcwatch",
@@ -166,6 +199,13 @@
    "date": "2026-11-13T07:00:16+00:00"
   },
   {
+   "key": "digicame",
+   "title": "Kマウントのディスコンになったレンズと現行レンズのリスト（デジカメinfo）",
+   "link": "https://digicame-info.com/2026/11/k-8.html",
+   "desc": "Pentax & Ricoh Rumorsに、Kマウントのディスコンになったレンズ、市場から消えつつあるレンズ、現行のレンズのリストが掲載されています。",
+   "date": "2026-11-13T04:00:42+00:00"
+  },
+  {
    "key": "capa",
    "title": "いつもの撮影をもっと快適に！ ニコンこだわりのスクエアフードなどオリジナルグッズ4アイテム発売",
    "link": "https://getnavi.jp/capa/news/510554/",
@@ -194,6 +234,13 @@
    "date": "2026-11-12T09:15:59+00:00"
   },
   {
+   "key": "digicame",
+   "title": "パナソニック「LUMIX S9II」の来春の発表は99%確実？（デジカメinfo）",
+   "link": "https://digicame-info.com/2026/11/lumix-s9ii99.html",
+   "desc": "独立写真家協会が、パナソニックの新型カメラに関する噂を投稿しています。",
+   "date": "2026-11-12T08:36:46+00:00"
+  },
+  {
    "key": "capa",
    "title": "レーシングカーに乗った気分になれる！ スーパー耐久最終戦にキヤノンがVR体験ブースを出展",
    "link": "https://getnavi.jp/capa/news/510686/",
@@ -206,6 +253,13 @@
    "link": "https://www.kitamura.jp/shasha/sony/fe-400mm-f4-5-gm-oss-20261112/",
    "desc": "はじめに ソニーGマスターブランドに一気に超望遠2モデルが加わった。FE 400mm F4.5 GM OSSとFE 600mm F6.3 GM OSSだ。いずれも白色の躯体に着脱可能な三脚座を備えるレンズで、フードやスイ […]",
    "date": "2026-11-12T07:00:22+00:00"
+  },
+  {
+   "key": "digicame",
+   "title": "キヤノンが他社と異なる方法でテレコンを内蔵した超望遠単焦点レンズを準備中？（デジカメinfo）",
+   "link": "https://digicame-info.com/2026/11/post-1971.html",
+   "desc": "Canon Rumorsに、キヤノンのテレコン内蔵の2本の超望遠単焦点レンズに関する噂が掲載されています。",
+   "date": "2026-11-12T04:45:14+00:00"
   },
   {
    "key": "shasha",
