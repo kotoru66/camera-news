@@ -1,7 +1,37 @@
 {
- "updated": "2026-11-19T21:33:22+00:00",
- "failed": [],
+ "updated": "2026-11-20T03:14:30+00:00",
+ "failed": [
+  "digicame"
+ ],
  "items": [
+  {
+   "key": "capa",
+   "title": "復活したベテラン勢が逆襲！ 前回と打って変わった結果に「流し撮りGP 2026」第7戦の結果発表",
+   "link": "https://getnavi.jp/capa/special/510960/",
+   "desc": "CAPAのモータースポーツフォトコンテスト「流し撮りGP 2026」第7戦の結果を発表します。 カムバックしたベテラン勢の作品が上位に並ぶ 前回第6戦での若手18～25歳の上位入賞から一転して、今月の第7戦はカムバックし...",
+   "date": "2026-11-20T02:15:08+00:00"
+  },
+  {
+   "key": "dcwatch",
+   "title": "赤城耕一の「アカギカメラ」 第153回：センサーとレンズをまるごと交換。画期的すぎたリコー「GXR」の設計思想",
+   "link": "https://dc.watch.impress.co.jp/docs/column/akagi/2158027.html",
+   "desc": "過去をなかったことにすることができないのは人間だけでなく、カメラも同じです。",
+   "date": "2026-11-19T22:00:00+00:00"
+  },
+  {
+   "key": "dcwatch",
+   "title": "2,030点目：軽量化と耐久性を両立したカメラバックパック WANDRD「PRVKE POCKET」",
+   "link": "https://dc.watch.impress.co.jp/docs/news/2157640.html",
+   "desc": "ネットショップのカートの中にある「あとで買う」には、様子見をしているなど気になるアイテムがたくさん入っています。この連載では、フォトライフに関連する製品を中心にその中身をお届けします。どのような物に興味を持ち、どのような視点で選んでいるのかなど、日々の物欲をお",
+   "date": "2026-11-19T22:00:00+00:00"
+  },
+  {
+   "key": "dcwatch",
+   "title": "Angelbirdが支えるル・マンの現場 映像クリエイターチーム「Zmedia Japan」の挑戦[Sponsored]",
+   "link": "https://dc.watch.impress.co.jp/docs/topic/special/2155023.html",
+   "desc": "今年のル・マン24時間レースで、TOYOTA RACINGのコンテンツ制作を担当したのが、クルマに特化したビジュアルコンテンツ制作を手掛ける映像クリエイターチーム「Zmedia Japan（以下、Zmedia）」の面々である。",
+   "date": "2026-11-19T22:00:00+00:00"
+  },
   {
    "key": "dcwatch",
    "title": "カメラバカにつける薬 in デジカメ Watch：すごい望遠レンズ",
@@ -59,13 +89,6 @@
    "date": "2026-11-19T16:23:50+00:00"
   },
   {
-   "key": "digicame",
-   "title": "パナソニックの動画機はなぜソニーFXに挑戦しないのか？（デジカメinfo）",
-   "link": "https://digicame-info.com/2026/11/lumixfx.html",
-   "desc": "PetaPixelに、パナソニックの動画機についての意見記事が掲載されています。",
-   "date": "2026-11-19T15:11:25+00:00"
-  },
-  {
    "key": "petapixel",
    "title": "How Close Can an Arri-Powered Phone Get to an Alexa Cinema Camera?",
    "link": "https://petapixel.com/2026/11/19/how-close-can-an-arri-powered-phone-get-to-an-alexa-cinema-camera/",
@@ -108,48 +131,6 @@
    "date": "2026-11-19T07:00:40+00:00"
   },
   {
-   "key": "dcwatch",
-   "title": "Sigma FP2の「ProRes RAW推奨SSD」が公開 3ブランド6製品が対象に",
-   "link": "https://dc.watch.impress.co.jp/docs/news/2157901.html",
-   "desc": "株式会社シグマは、ミラーレスカメラ「Sigma FP2」の発売日である11月11日（水）に、推奨SSDを公開した。",
-   "date": "2026-11-19T06:42:30+00:00"
-  },
-  {
-   "key": "dcwatch",
-   "title": "キャンペーン：S1II、G9PROIIなど対象の「LUMIX 年末・年始キャッシュバックキャンペーン」 最大4万円を還元 交換レンズも最大2万円",
-   "link": "https://dc.watch.impress.co.jp/docs/news/campaign/2157880.html",
-   "desc": "パナソニック株式会社は、LUMIX SシリーズおよびGシリーズの対象製品を購入すると現金が還元される「LUMIX 年末・年始キャッシュバックキャンペーン」を11月20日（金）に開始する。購入期間は2027年1月17日（日）まで。",
-   "date": "2026-11-19T06:07:16+00:00"
-  },
-  {
-   "key": "dcwatch",
-   "title": "ソニー「THE NEW CREATORS」第3回の作品募集が開始 グランプリは賞金100万円 副賞はα7 VやFX5",
-   "link": "https://dc.watch.impress.co.jp/docs/news/contest/2157867.html",
-   "desc": "ソニーマーケティング株式会社は11月19日（木）、第3回「THE NEW CREATORS」の作品募集を開始した。2027年3月15日（月）まで、写真もしくは映像作品の応募を受け付けている。",
-   "date": "2026-11-19T05:13:36+00:00"
-  },
-  {
-   "key": "digicame",
-   "title": "パナソニックは「EVF内蔵のS9」の期待に応えられるよう取り組んでいる（デジカメinfo）",
-   "link": "https://digicame-info.com/2026/11/post-1973.html",
-   "desc": "CineDに、パナソニックイメージングソリューション事業本部長のインタビューが掲載されています。",
-   "date": "2026-11-19T02:28:22+00:00"
-  },
-  {
-   "key": "digicame",
-   "title": "富士フイルムが「X Summit Paris 2026」の開催を予告（デジカメinfo）",
-   "link": "https://digicame-info.com/2026/11/x-summit-paris-2026.html",
-   "desc": "Fuji Filmが公式チャンネルで、「X Summit PARIS 2026」の開催をアナウンスしています。",
-   "date": "2026-11-18T15:21:27+00:00"
-  },
-  {
-   "key": "digicame",
-   "title": "ソニーの次の新製品発表は2027年初頭になる？（デジカメinfo）",
-   "link": "https://digicame-info.com/2026/11/2027-1.html",
-   "desc": "SonyAlphaRumorsに、ソニーのイベントスケジュールに関する噂が掲載されています。",
-   "date": "2026-11-18T09:54:45+00:00"
-  },
-  {
    "key": "capa",
    "title": "山岸伸カメラマンの写真を多数展示！ 郡山市に西田敏行さんのメモリアルコーナーがオープン",
    "link": "https://getnavi.jp/capa/news/511061/",
@@ -162,20 +143,6 @@
    "link": "https://www.kitamura.jp/shasha/sigma/fp2-20261118/",
    "desc": "窯の猫に迎えられてはじまる沖縄の初日 沖縄の旅で、最初にわたしを出迎えてくれたのは、やちむんの里の窯で飼われている若い猫だった。まだ幼さの残る顔つきなのに、こちらを見つめ返す姿はすっかり接客のプロである。この旅に連れ出し […]",
    "date": "2026-11-18T07:00:38+00:00"
-  },
-  {
-   "key": "digicame",
-   "title": "富士フイルム「X-T6」は12月2日に発表される？（デジカメinfo）",
-   "link": "https://digicame-info.com/2026/11/x-t6122.html",
-   "desc": "Fuji Rumorsに富士フイルム「X-T6」の発表日に関する情報が掲載されています。",
-   "date": "2026-11-18T05:00:50+00:00"
-  },
-  {
-   "key": "digicame",
-   "title": "パナソニックが「LUMIX SHX1」を正式発表（デジカメinfo）",
-   "link": "https://digicame-info.com/2026/11/lumix-shx1.html",
-   "desc": "パナソニックがLマウントのコンパクトシネマカメラ「LUMIX SHX1（AU-SHX1）」を正式に発表しました。",
-   "date": "2026-11-17T14:14:47+00:00"
   },
   {
    "key": "capa",
@@ -206,20 +173,6 @@
    "date": "2026-11-17T01:15:16+00:00"
   },
   {
-   "key": "digicame",
-   "title": "パナソニックの新しいLマウントシネマカメラにはIBISと液晶モニタが搭載される？［内容更新]（デジカメinfo）",
-   "link": "https://digicame-info.com/2026/11/libis.html",
-   "desc": "L-rumorsに、登場が噂されているパナソニックのLマウントシネマカメラのスペックに関する追加情報が掲載されています。",
-   "date": "2026-11-16T16:52:25+00:00"
-  },
-  {
-   "key": "digicame",
-   "title": "パナソニックの新型Lマウントカメラの不鮮明な画像（デジカメinfo）",
-   "link": "https://digicame-info.com/2026/11/l-26.html",
-   "desc": "L-rumorsに、パナソニックが間もなく発表すると噂されている新しいLマウントシネマカメラの不鮮明なリーク画像が掲載されています。",
-   "date": "2026-11-16T15:18:42+00:00"
-  },
-  {
    "key": "capa",
    "title": "サッと出し入れできるカジュアルな巾着バッグ「PGYTECH OneGo ドローストリングバッグ V2」",
    "link": "https://getnavi.jp/capa/news/510682/",
@@ -246,13 +199,6 @@
    "link": "https://getnavi.jp/capa/news/510907/",
    "desc": "ライカカメラは、特別仕様のレンジファインダーカメラ「ライカM-A ハンマートーン」「ライカM11-P ハンマートーン」を2026年11月13日に発売しました。 それぞれ「ライカM-A」「ライカM11-P」を...",
    "date": "2026-11-15T08:15:46+00:00"
-  },
-  {
-   "key": "capa",
-   "title": "タフなバックパック「NYA-EVO Fjord」が北欧からやってきた！ 豊富なアクセサリーで収納の自由度アップ",
-   "link": "https://getnavi.jp/capa/news/510499/",
-   "desc": "H＆Y Filters Japanは、スウェーデンのカメラバッグブランド「NYA-EVO (ニア・イーボ)」の取り扱いを開始。バックパック「Fjord (フィヨルド」と専用インナーボックス、アクセサリーを2026年10月...",
-   "date": "2026-11-15T02:15:06+00:00"
   },
   {
    "key": "shasha",
