@@ -1,15 +1,41 @@
 {
- "updated": "2026-11-22T11:27:40+00:00",
- "failed": [
-  "digicame"
- ],
+ "updated": "2026-11-22T19:39:13+00:00",
+ "failed": [],
  "items": [
+  {
+   "key": "petapixel",
+   "title": "Layered Compositions Will Level Up Your Landscape Photography",
+   "link": "https://petapixel.com/2026/11/22/layered-compositions-will-level-up-your-landscape-photography/",
+   "desc": "A landscape can look dramatically different in person than it does in a photograph, particularly when a scene loses its sense of d",
+   "date": "2026-11-22T18:00:34+00:00"
+  },
+  {
+   "key": "digicame",
+   "title": "OMDSのカメラブランド名は「Zuiko」にするべきだった（デジカメinfo）",
+   "link": "https://digicame-info.com/2026/11/omdszuiko.html",
+   "desc": "PetaPixelに、OMDSのブランド名に関する意見記事が掲載されています。",
+   "date": "2026-11-22T15:22:21+00:00"
+  },
+  {
+   "key": "petapixel",
+   "title": "Between Moonlight and Aurora: Photographing East Greenland After Dark",
+   "link": "https://petapixel.com/2026/11/22/between-moonlight-and-aurora-photographing-east-greenland-after-dark/",
+   "desc": "Photographing East Greenland at night is an exercise in preparation, observation, and adaptation. The landscape is immense, the co",
+   "date": "2026-11-22T15:00:59+00:00"
+  },
   {
    "key": "capa",
    "title": "レンズ売れ筋トップ10！ シグマの望遠ズーム3マウントが初登場【ヨドバシカメラ売れ筋ランキング】",
    "link": "https://getnavi.jp/capa/news/511249/",
    "desc": "ヨドバシカメラ売れ筋ベストテン「デジタル一眼カメラ用交換レンズ」2026年10月下期ランキング ショッピングサイト「ヨドバシ・ドット・コム」と全国24店舗のヨドバシカメラでの売上を集計した10月下期の「デジタル一眼カメラ...",
    "date": "2026-11-22T08:15:57+00:00"
+  },
+  {
+   "key": "digicame",
+   "title": "ヨドバシの10月下期のランキングで初登場の「EOS R8 Mark II」が2位に（デジカメinfo）",
+   "link": "https://digicame-info.com/2026/11/10eos-r8-mark-ii2.html",
+   "desc": "CAPA CAMERA WEBに、ヨドバシカメラの10月下期のレンズ交換式カメラの売上トップ10が掲載されています。",
+   "date": "2026-11-22T07:53:19+00:00"
   },
   {
    "key": "dcwatch",
@@ -75,6 +101,13 @@
    "date": "2026-11-21T08:15:37+00:00"
   },
   {
+   "key": "digicame",
+   "title": "富士フイルムが未発表カメラ（Xシリーズのエントリーモデル？）を登録（デジカメinfo）",
+   "link": "https://digicame-info.com/2026/11/x-32.html",
+   "desc": "E8M_8888が、富士フイルムの未発表カメラの登録情報を投稿しています。",
+   "date": "2026-11-21T07:47:14+00:00"
+  },
+  {
    "key": "shasha",
    "title": "【11月28日開催・参加無料】星景写真家・北山輝泰氏が教える星空撮影の魅力！ソニーαオンラインセミナー＆体験会｜全国のカメラのキタムラ39店舗でライブ中継！",
    "link": "https://www.kitamura.jp/shasha/sony/seminar-18-20261121/",
@@ -82,11 +115,25 @@
    "date": "2026-11-21T07:00:17+00:00"
   },
   {
+   "key": "digicame",
+   "title": "ソニーがエントリークラスの未発表カメラ「WW816852」を登録（デジカメinfo）",
+   "link": "https://digicame-info.com/2026/11/ww816852.html",
+   "desc": "E8M_8888が、ソニーの未発表カメラの登録情報を投稿しています。",
+   "date": "2026-11-21T06:42:24+00:00"
+  },
+  {
    "key": "dcwatch",
    "title": "忘れられない1台～私の愛したデジタルカメラ～ミノルタ DiMAGE A1",
    "link": "https://dc.watch.impress.co.jp/docs/reader/memory/2158293.html",
    "desc": "",
    "date": "2026-11-21T03:00:00+00:00"
+  },
+  {
+   "key": "digicame",
+   "title": "富士フイルム「X-T6」の新型センサーには他にはない新技術が採用される？（デジカメinfo）",
+   "link": "https://digicame-info.com/2026/11/x-t6-10.html",
+   "desc": "Fuji Rumorsに、富士フイルム「X-T6」のセンサーに関する噂の続報が掲載されています。",
+   "date": "2026-11-21T02:57:35+00:00"
   },
   {
    "key": "shasha",
@@ -131,20 +178,6 @@
    "date": "2026-11-20T18:20:27+00:00"
   },
   {
-   "key": "petapixel",
-   "title": "The Mothers Saving Borneo: Fighting Fire, Patriarchy, and Super El Niño",
-   "link": "https://petapixel.com/2026/11/20/the-mothers-saving-borneo-fighting-fire-patriarchy-and-super-el-nino/",
-   "desc": "Fire poses a serious threat to the people, the wildlife, and the vast rainforests of Kalimantan. On this island, which is well kno",
-   "date": "2026-11-20T17:43:44+00:00"
-  },
-  {
-   "key": "petapixel",
-   "title": "DxO Year in Review 2026: Four New Versions and Where Each One Fits in Your Edit",
-   "link": "https://petapixel.com/2026/11/20/dxo-year-in-review-2026-four-new-versions-and-where-each-one-fits-in-your-edit/",
-   "desc": "A lot changed in DxO's photo editing tools in 2026. The strongest noise reduction reached far more cameras. Masks learned to find ",
-   "date": "2026-11-20T15:45:55+00:00"
-  },
-  {
    "key": "dcwatch",
    "title": "OM SYSTEM、写真家・菅原貴徳氏による無料セミナー「野鳥撮影徹底講座」を池袋と博多で開催[Sponsored]",
    "link": "https://dc.watch.impress.co.jp/docs/topic/special/2158282.html",
@@ -173,6 +206,13 @@
    "date": "2026-11-20T07:00:02+00:00"
   },
   {
+   "key": "digicame",
+   "title": "ニコン「Z70」の発表は12月初旬？（デジカメinfo）",
+   "link": "https://digicame-info.com/2026/11/z70-2.html",
+   "desc": "Nikon Rumorsに、ニコンZ70の発表時期に関する噂が掲載されています。",
+   "date": "2026-11-20T06:04:44+00:00"
+  },
+  {
    "key": "capa",
    "title": "復活したベテラン勢が逆襲！ 前回と打って変わった結果に「流し撮りGP 2026」第7戦の結果発表",
    "link": "https://getnavi.jp/capa/special/510960/",
@@ -180,11 +220,25 @@
    "date": "2026-11-20T02:15:08+00:00"
   },
   {
+   "key": "digicame",
+   "title": "パナソニックの動画機はなぜソニーFXに挑戦しないのか？（デジカメinfo）",
+   "link": "https://digicame-info.com/2026/11/lumixfx.html",
+   "desc": "PetaPixelに、パナソニックの動画機についての意見記事が掲載されています。",
+   "date": "2026-11-19T15:11:25+00:00"
+  },
+  {
    "key": "shasha",
    "title": "ソニー FE 400mm F4.5 GM OSS レビュー｜野鳥撮影の寄り引きを自在に",
    "link": "https://www.kitamura.jp/shasha/sony/fe-400mm-f4-5-gm-oss-2-20261119/",
    "desc": "はじめに 2026年10月9日にソニーから発売された2本の新しい超望遠レンズのうち、FE 600mm F6.3 GM OSSは先日ShaShaにてレビュー記事を執筆させていただきました。 今回はもうひとつの超望遠レンズ、 […]",
    "date": "2026-11-19T07:00:40+00:00"
+  },
+  {
+   "key": "digicame",
+   "title": "パナソニックは「EVF内蔵のS9」の期待に応えられるよう取り組んでいる（デジカメinfo）",
+   "link": "https://digicame-info.com/2026/11/post-1973.html",
+   "desc": "CineDに、パナソニックイメージングソリューション事業本部長のインタビューが掲載されています。",
+   "date": "2026-11-19T02:28:22+00:00"
   },
   {
    "key": "capa",
