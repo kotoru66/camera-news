@@ -1,7 +1,65 @@
 {
- "updated": "2026-11-23T00:52:47+00:00",
- "failed": [],
+ "updated": "2026-11-23T09:04:19+00:00",
+ "failed": [
+  "digicame"
+ ],
  "items": [
+  {
+   "key": "capa",
+   "title": "コンデジ売れ筋トップ10！ GRシリーズ30周年記念モデルがランクイン【ヨドバシカメラ売れ筋ランキング】",
+   "link": "https://getnavi.jp/capa/news/511255/",
+   "desc": "ヨドバシカメラ売れ筋ベストテン「コンパクトデジタルカメラ」2026年10月下期ランキング ショッピングサイト「ヨドバシ・ドット・コム」と全国24店舗のヨドバシカメラでの売上を集計した10月下期の「コンパクトデジタルカメラ...",
+   "date": "2026-11-23T08:15:07+00:00"
+  },
+  {
+   "key": "dcwatch",
+   "title": "鶴巻育子 写真展：半径の庭",
+   "link": "https://dc.watch.impress.co.jp/docs/news/exhibition/2158502.html",
+   "desc": "ふげん社（東京・目黒）で、鶴巻育子さんの個展「半径の庭」が開催される。会期は2026年12月4日（金）〜12月26日（土）。",
+   "date": "2026-11-23T08:00:00+00:00"
+  },
+  {
+   "key": "petapixel",
+   "title": "Kodak SlideTag Review: This E-Ink Equipped, AirTag Keychain Rocks",
+   "link": "https://petapixel.com/2026/11/22/kodak-slidetag-review-this-e-ink-equipped-airtag-keychain-rocks/",
+   "desc": "I have near rock-bottom expectations of Reto when it comes to making a good product. In my opinion, it's a better marketing compan",
+   "date": "2026-11-23T03:01:24+00:00"
+  },
+  {
+   "key": "petapixel",
+   "title": "Kodak SlideTag Is a $35 Blind-Box E Ink Photo Display and AirTag Alternative",
+   "link": "https://petapixel.com/2026/11/22/kodak-slidetag-is-a-35-blind-box-e-ink-photo-display-and-airtag-alternative/",
+   "desc": "Reto, the company behind the wildly successful Kodak Charmera, has announced its next blind box-style product: the Kodak SlideTag.",
+   "date": "2026-11-23T03:00:59+00:00"
+  },
+  {
+   "key": "dcwatch",
+   "title": "忘れられない1台～私の愛したデジタルカメラ～富士フイルム FinePix500",
+   "link": "https://dc.watch.impress.co.jp/docs/reader/memory/2158317.html",
+   "desc": "",
+   "date": "2026-11-23T03:00:00+00:00"
+  },
+  {
+   "key": "dcwatch",
+   "title": "週刊アンケート：【質問】スタジオを借りて撮影したことある？",
+   "link": "https://dc.watch.impress.co.jp/docs/enquete/2157628.html",
+   "desc": "",
+   "date": "2026-11-23T03:00:00+00:00"
+  },
+  {
+   "key": "capa",
+   "title": "高性能レンズでモデル2人を撮影できる！「コシナのMFレンズで楽しむポートレート撮影セミナー」参加者募集",
+   "link": "https://getnavi.jp/capa/special/511120/",
+   "desc": "CAPAと写真家の水咲奈々さん、レンズメーカーのコシナとのコラボレーションによる「コシナのMFレンズで楽しむポートレート撮影セミナー」を、2026年12月16日に開催します。 目次 参加者全員に高性能MFレンズを貸し出し...",
+   "date": "2026-11-23T02:15:47+00:00"
+  },
+  {
+   "key": "shasha",
+   "title": "Planarは海辺のポートレートでこそ使いたい！ソニー「Planar T* FE 50mm F1.4 ZA」編",
+   "link": "https://www.kitamura.jp/shasha/sony/planar-t-fe-50mm-f1-4-za-20261123/",
+   "desc": "はじめに こんにちは！フォトグラファーの鈴木啓太|urbanです。長年オールドレンズやフィルムを中心にポートレート、スナップ、家族写真を撮影しております。今回は発売から何と10年経過しつつも未だ絶大な人気を誇るソニーEマ […]",
+   "date": "2026-11-23T01:00:24+00:00"
+  },
   {
    "key": "dcwatch",
    "title": "岡嶋和幸の「あとで買う」 2,033点目：完全保存版の鉄道絶景のロケーションガイド - デジカメ Watch",
@@ -17,13 +75,6 @@
    "date": "2026-11-22T18:00:34+00:00"
   },
   {
-   "key": "digicame",
-   "title": "OMDSのカメラブランド名は「Zuiko」にするべきだった（デジカメinfo）",
-   "link": "https://digicame-info.com/2026/11/omdszuiko.html",
-   "desc": "PetaPixelに、OMDSのブランド名に関する意見記事が掲載されています。",
-   "date": "2026-11-22T15:22:21+00:00"
-  },
-  {
    "key": "petapixel",
    "title": "Between Moonlight and Aurora: Photographing East Greenland After Dark",
    "link": "https://petapixel.com/2026/11/22/between-moonlight-and-aurora-photographing-east-greenland-after-dark/",
@@ -36,13 +87,6 @@
    "link": "https://getnavi.jp/capa/news/511249/",
    "desc": "ヨドバシカメラ売れ筋ベストテン「デジタル一眼カメラ用交換レンズ」2026年10月下期ランキング ショッピングサイト「ヨドバシ・ドット・コム」と全国24店舗のヨドバシカメラでの売上を集計した10月下期の「デジタル一眼カメラ...",
    "date": "2026-11-22T08:15:57+00:00"
-  },
-  {
-   "key": "digicame",
-   "title": "ヨドバシの10月下期のランキングで初登場の「EOS R8 Mark II」が2位に（デジカメinfo）",
-   "link": "https://digicame-info.com/2026/11/10eos-r8-mark-ii2.html",
-   "desc": "CAPA CAMERA WEBに、ヨドバシカメラの10月下期のレンズ交換式カメラの売上トップ10が掲載されています。",
-   "date": "2026-11-22T07:53:19+00:00"
   },
   {
    "key": "dcwatch",
@@ -108,25 +152,11 @@
    "date": "2026-11-21T08:15:37+00:00"
   },
   {
-   "key": "digicame",
-   "title": "富士フイルムが未発表カメラ（Xシリーズのエントリーモデル？）を登録（デジカメinfo）",
-   "link": "https://digicame-info.com/2026/11/x-32.html",
-   "desc": "E8M_8888が、富士フイルムの未発表カメラの登録情報を投稿しています。",
-   "date": "2026-11-21T07:47:14+00:00"
-  },
-  {
    "key": "shasha",
    "title": "【11月28日開催・参加無料】星景写真家・北山輝泰氏が教える星空撮影の魅力！ソニーαオンラインセミナー＆体験会｜全国のカメラのキタムラ39店舗でライブ中継！",
    "link": "https://www.kitamura.jp/shasha/sony/seminar-18-20261121/",
    "desc": "セミナー内容 2026年11月28日(土)、星景写真家の北山輝泰氏を講師にお迎えし、参加無料の『ソニー プロカメラマン オンラインセミナー＆α体験会』を開催します！ 今回のテーマは『ソニーαが広げる星空表現の可能性』。ソ […]",
    "date": "2026-11-21T07:00:17+00:00"
-  },
-  {
-   "key": "digicame",
-   "title": "ソニーがエントリークラスの未発表カメラ「WW816852」を登録（デジカメinfo）",
-   "link": "https://digicame-info.com/2026/11/ww816852.html",
-   "desc": "E8M_8888が、ソニーの未発表カメラの登録情報を投稿しています。",
-   "date": "2026-11-21T06:42:24+00:00"
   },
   {
    "key": "dcwatch",
@@ -136,13 +166,6 @@
    "date": "2026-11-21T03:00:00+00:00"
   },
   {
-   "key": "digicame",
-   "title": "富士フイルム「X-T6」の新型センサーには他にはない新技術が採用される？（デジカメinfo）",
-   "link": "https://digicame-info.com/2026/11/x-t6-10.html",
-   "desc": "Fuji Rumorsに、富士フイルム「X-T6」のセンサーに関する噂の続報が掲載されています。",
-   "date": "2026-11-21T02:57:35+00:00"
-  },
-  {
    "key": "shasha",
    "title": "三脚が当たり前だった私の撮影を変えた、OM SYSTEM OM-3と巡った風景",
    "link": "https://www.kitamura.jp/shasha/omsystem/om-3-11-20261121/",
@@ -150,46 +173,11 @@
    "date": "2026-11-21T02:00:55+00:00"
   },
   {
-   "key": "dcwatch",
-   "title": "イベントレポート：LOFICセンサー搭載ライカカメラの「Xiaomi 18 Pro」を体験 表参道で発売記念イベントが開催中",
-   "link": "https://dc.watch.impress.co.jp/docs/news/eventreport/2158365.html",
-   "desc": "シャオミ・ジャパンは、新型スマートフォン「Xiaomi 18 Pro シリーズ」を体験できるイベント「Xiaomi 18 Pro シリーズ発売記念スペシャルイベント ～ハロー背中のひらめき。～」を東京・表参道で開催している。会期は11月23日（月・祝）まで。",
-   "date": "2026-11-21T00:00:00+00:00"
-  },
-  {
-   "key": "dcwatch",
-   "title": "岡嶋和幸の「あとで買う」 2,031点目：ヒーター内蔵の座布団で温かくデスクワーク - デジカメ Watch",
-   "link": "https://dc.watch.impress.co.jp/docs/column/okajima/2158333.html",
-   "desc": "ネットショップのカートの中にある「あとで買う」には、様子見をしているなど気になるアイテムがたくさん入っています。この連載では、フォトライフに関連する製品を中心にその中身をお届けします。どのような物に興味を持ち、どのような視点で選んでいるのかなど、日々の物欲をお",
-   "date": "2026-11-20T22:00:00+00:00"
-  },
-  {
    "key": "petapixel",
    "title": "Holiday Gift Guide 2026: Cameras, Tripods, Storage and Software for Photographers",
    "link": "https://petapixel.com/2026/11/20/holiday-gift-guide-2026-cameras-tripods-storage-and-software-for-photographers/",
    "desc": "Holiday sales are a practical time to fill a gap in a camera kit, whether that is a new camera, a tripod, better audio or a faster",
    "date": "2026-11-20T19:56:49+00:00"
-  },
-  {
-   "key": "petapixel",
-   "title": "It Should Have Been Zuiko",
-   "link": "https://petapixel.com/2026/11/20/it-should-have-been-zuiko/",
-   "desc": "I remember exactly where I was when I heard what the new name for the camera brand spun off from Olympus was going to be. I rememb",
-   "date": "2026-11-20T19:30:09+00:00"
-  },
-  {
-   "key": "petapixel",
-   "title": "The Impossible Comeback: Modern Polaroid 600 Film Is Better Than You Think",
-   "link": "https://petapixel.com/2026/11/20/the-impossible-comeback-modern-polaroid-600-film-is-better-than-you-think/",
-   "desc": "We thought we had seen the last of the Type 600 film back in 2008 when Polaroid announced it was discontinuing the film. But then ",
-   "date": "2026-11-20T18:20:27+00:00"
-  },
-  {
-   "key": "dcwatch",
-   "title": "OM SYSTEM、写真家・菅原貴徳氏による無料セミナー「野鳥撮影徹底講座」を池袋と博多で開催[Sponsored]",
-   "link": "https://dc.watch.impress.co.jp/docs/topic/special/2158282.html",
-   "desc": "OMデジタルソリューションズは、写真家の菅原貴徳氏を講師に迎えたイベント「OM SYSTEMで叶える！野鳥撮影徹底講座」を、ヨドバシカメラ マルチメディア池袋およびマルチメディア博多で開催する。参加費はいずれも無料。",
-   "date": "2026-11-20T09:51:31+00:00"
   },
   {
    "key": "capa",
@@ -206,13 +194,6 @@
    "date": "2026-11-20T07:00:02+00:00"
   },
   {
-   "key": "digicame",
-   "title": "ニコン「Z70」の発表は12月初旬？（デジカメinfo）",
-   "link": "https://digicame-info.com/2026/11/z70-2.html",
-   "desc": "Nikon Rumorsに、ニコンZ70の発表時期に関する噂が掲載されています。",
-   "date": "2026-11-20T06:04:44+00:00"
-  },
-  {
    "key": "capa",
    "title": "復活したベテラン勢が逆襲！ 前回と打って変わった結果に「流し撮りGP 2026」第7戦の結果発表",
    "link": "https://getnavi.jp/capa/special/510960/",
@@ -220,25 +201,11 @@
    "date": "2026-11-20T02:15:08+00:00"
   },
   {
-   "key": "digicame",
-   "title": "パナソニックの動画機はなぜソニーFXに挑戦しないのか？（デジカメinfo）",
-   "link": "https://digicame-info.com/2026/11/lumixfx.html",
-   "desc": "PetaPixelに、パナソニックの動画機についての意見記事が掲載されています。",
-   "date": "2026-11-19T15:11:25+00:00"
-  },
-  {
    "key": "shasha",
    "title": "ソニー FE 400mm F4.5 GM OSS レビュー｜野鳥撮影の寄り引きを自在に",
    "link": "https://www.kitamura.jp/shasha/sony/fe-400mm-f4-5-gm-oss-2-20261119/",
    "desc": "はじめに 2026年10月9日にソニーから発売された2本の新しい超望遠レンズのうち、FE 600mm F6.3 GM OSSは先日ShaShaにてレビュー記事を執筆させていただきました。 今回はもうひとつの超望遠レンズ、 […]",
    "date": "2026-11-19T07:00:40+00:00"
-  },
-  {
-   "key": "digicame",
-   "title": "パナソニックは「EVF内蔵のS9」の期待に応えられるよう取り組んでいる（デジカメinfo）",
-   "link": "https://digicame-info.com/2026/11/post-1973.html",
-   "desc": "CineDに、パナソニックイメージングソリューション事業本部長のインタビューが掲載されています。",
-   "date": "2026-11-19T02:28:22+00:00"
   },
   {
    "key": "capa",
@@ -255,32 +222,11 @@
    "date": "2026-11-18T07:00:38+00:00"
   },
   {
-   "key": "capa",
-   "title": "SUNEAST「ULTIMATE PRO」からV90対応のSDXC UHS-IIカード登場！ 8K/4K動画撮影や高速連写を快適に",
-   "link": "https://getnavi.jp/capa/news/511039/",
-   "desc": "旭東エレクトロニクスは、SUNEAST (サンイースト) ブランドのSDXCメモリーカード「ULTIMATE PRO SDXC UHS-II V90 Card BLACK Series」を2026年11月17日に発売した...",
-   "date": "2026-11-17T08:15:33+00:00"
-  },
-  {
    "key": "shasha",
    "title": "ソニー「α」が広げる星空表現の可能性｜北山輝泰",
    "link": "https://www.kitamura.jp/shasha/sony/a-series-20261117/",
    "desc": "2026年11月28日(土)に開催されるソニー プロカメラマン オンラインセミナー＆α体験会では、本記事でもレビューしている北山輝泰さんが『ソニーαが広げる星空表現の可能性』をテーマに、αシリーズを使った星空撮影の魅力や […]",
    "date": "2026-11-17T07:00:24+00:00"
-  },
-  {
-   "key": "capa",
-   "title": "ふんわりボケからバブルボケまで、1本で3つの描写「Brightin Star 50mm F2 TRI-SIGHT」ボケの形も4種類",
-   "link": "https://getnavi.jp/capa/news/511013/",
-   "desc": "焦点工房は、Brightin Star (ブライティンスター) のフルサイズ対応MFレンズ「50mm F2 TRI-SIGHT」を2026年11月4日に発売した。ソニーE、ニコンZ、キヤノンRF、Lマウントの4種類が選べ...",
-   "date": "2026-11-17T02:15:57+00:00"
-  },
-  {
-   "key": "shasha",
-   "title": "ニコン NIKKOR Z 120-300mm f/2.8 TC VR S｜1.4倍テレコン内蔵、サンニッパの明るさと420mmの到達力を1本に凝縮した至高のS-Lineズーム",
-   "link": "https://www.kitamura.jp/shasha/nikon/nikkor-z-120-300mm-f-2-8-tc-vr-s-20261116/",
-   "desc": "はじめに：Zマウントが到達した超望遠ズームの新たな頂点 ニコンファン、そして世界中のスポーツ・ネイチャーフォトグラファーが待ち望んでいた1本が登場します。2026年11月13日に発売された「NIKKOR Z 120-30 […]",
-   "date": "2026-11-16T07:00:08+00:00"
   }
  ]
 }
