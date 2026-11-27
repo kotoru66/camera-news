@@ -1,27 +1,90 @@
 {
- "updated": "2026-11-26T23:52:41+00:00",
+ "updated": "2026-11-27T08:30:42+00:00",
  "failed": [],
  "items": [
   {
    "key": "dcwatch",
-   "title": "有効径50mmで1万円台の双眼鏡「ミラージュEX」 7倍と10倍をラインアップ",
-   "link": "https://dc.watch.impress.co.jp/docs/news/2159197.html",
-   "desc": "株式会社ケンコー・トキナーは、50mmの大口径レンズを採用した双眼鏡「ミラージュEX 7×50」を11月20日（金）に発売した。",
-   "date": "2026-11-26T23:00:00+00:00"
+   "title": "キャンペーン：焦点工房、「Amazonブラックフライデー」でAF単焦点レンズなどセール中",
+   "link": "https://dc.watch.impress.co.jp/docs/news/campaign/2160040.html",
+   "desc": "株式会社焦点工房は、「Amazonブラックフライデー」および先行セールに参加し、同社が取り扱う交換レンズやシネマレンズ、マウントアダプター、カメラストラップ、カメラバッグなどを特別価格で販売する。",
+   "date": "2026-11-27T08:18:33+00:00"
   },
   {
    "key": "dcwatch",
-   "title": "ブラックミストか、ホワイトか？ プロが教える使い分け＆濃度の選び方[Sponsored]",
-   "link": "https://dc.watch.impress.co.jp/docs/topic/special/2157977.html",
-   "desc": "近年、ポートレートやイルミネーションで人気の「ミストフィルター」。すでに「ブラックミスト」が定番化して久しい中、そこにいわゆる「ホワイトミスト」や「ゴールドミスト」が登場し、選択肢が一気に増えてきている。",
-   "date": "2026-11-26T22:00:00+00:00"
+   "title": "本日のお買い得商品 発表直後の大口径双眼鏡が早くもセールに",
+   "link": "https://dc.watch.impress.co.jp/docs/news/saleitem/2159874.html",
+   "desc": "ケンコーの双眼鏡「ミラージュEX 7×50」が、Amazonで9%OFFのセールになっている。11月27日（金）現在、参考価格1万2,100円のところ、1万1,000円で購入できる。",
+   "date": "2026-11-27T08:00:00+00:00"
+  },
+  {
+   "key": "shasha",
+   "title": "ファインダーをのぞくと写真が変わる｜上手さより、まなざし",
+   "link": "https://www.kitamura.jp/shasha/leica/vision-over-skill-2-20261127/",
+   "desc": "ファインダーをのぞくと、見え方が変わる ファインダーをのぞくようになると、撮れる写真が変わります。正確には、目の前の世界の見え方が変わり、相手や世界への関わり方が変わり、いつの間にか写真も変わっていた、そんな感覚でしょう […]",
+   "date": "2026-11-27T07:00:23+00:00"
   },
   {
    "key": "dcwatch",
-   "title": "カメラバカにつける薬 in デジカメ Watch：マニュアルカメラはおれらのたしなみ",
-   "link": "https://dc.watch.impress.co.jp/docs/comic/clinic/2159576.html",
-   "desc": "",
-   "date": "2026-11-26T21:00:00+00:00"
+   "title": "ライカとビリンガム、カメラバッグを共同開発",
+   "link": "https://dc.watch.impress.co.jp/docs/news/2159970.html",
+   "desc": "ライカカメラジャパン株式会社は11月27日（金）、英国のカメラバッグメーカー・ビリンガム社と共同開発したカメラバッグを発表した。発売は12月の予定。",
+   "date": "2026-11-27T06:30:00+00:00"
+  },
+  {
+   "key": "dcwatch",
+   "title": "キャンペーン：SDXC UHS-IIなどProGrade Digital製品が最大35%OFF 本日スタートのAmazonブラックフライデー先行セールで 本セールにも参加",
+   "link": "https://dc.watch.impress.co.jp/docs/news/campaign/2159971.html",
+   "desc": "ProGrade Digital（プログレードデジタル）は、Amazonで11月27日（金）から始まった「ブラックフライデー先行セール」および11月30日（月）からの「ブラックフライデーセール」に参加。メモリーカードやポータブルSSDなど40製品を、通常価格か",
+   "date": "2026-11-27T06:25:21+00:00"
+  },
+  {
+   "key": "dcwatch",
+   "title": "光り輝く装飾で駅舎と列車を彩る「小湊鐵道イルミネーション2026」が開催中",
+   "link": "https://dc.watch.impress.co.jp/docs/news/event/2159898.html",
+   "desc": "千葉県市原市で「小湊鐵道イルミネーション2026」が12月27日（日）まで開催されている。",
+   "date": "2026-11-27T06:14:21+00:00"
+  },
+  {
+   "key": "dcwatch",
+   "title": "CSP、天然木を使用した「木製カメラ収納ボックス」を発売 普段使いのカメラを手の届く場所に、防湿庫とは異なる収納スタイルを提案",
+   "link": "https://dc.watch.impress.co.jp/docs/news/2159917.html",
+   "desc": "キャプテンスタッグ株式会社は、カメラアクセサリーブランド「CSP（Captain Stag Photo）」から、「CSP 木製カメラ収納ボックス」を発売する。11月20日（金）よりヨドバシ・ドット・コムで先行予約を開始しており、12月4日（金）に販売を開始する",
+   "date": "2026-11-27T04:21:49+00:00"
+  },
+  {
+   "key": "dcwatch",
+   "title": "キャンペーン：OWC、メモリーカードなど30アイテムを最大26%OFFに 「Amazonブラックフライデー」セールに参加中",
+   "link": "https://dc.watch.impress.co.jp/docs/news/campaign/2159895.html",
+   "desc": "Other World Computing（OWC）は、11月27日（金）にAmazonでスタートした「Amazonブラックフライデー先行セール」およびその後の本セールに参加。メモリーカード、カードリーダー、ドッキングステーションなど対象アイテムを通常価格から",
+   "date": "2026-11-27T04:17:48+00:00"
+  },
+  {
+   "key": "dcwatch",
+   "title": "キャンペーン：ATOMOSのモニターレコーダーがAmazonブラックフライデーで最大20%OFF",
+   "link": "https://dc.watch.impress.co.jp/docs/news/campaign/2159642.html",
+   "desc": "Nextorage株式会社は、Amazonで開催される「ブラックフライデー」でATOMOS製品の一部をセール価格で販売する。本セールに先立ち、11月27日（金）からの先行セールにも参加する。",
+   "date": "2026-11-27T03:36:29+00:00"
+  },
+  {
+   "key": "digicame",
+   "title": "ライカが12月3日に「Q3 43モノクローム」を発表？（デジカメinfo）",
+   "link": "https://digicame-info.com/2026/11/123q3-43.html",
+   "desc": "Leica Rumorsに、ライカQ3 43モノクロームの発表日と価格に関する情報が掲載されています。",
+   "date": "2026-11-27T03:26:49+00:00"
+  },
+  {
+   "key": "digicame",
+   "title": "富士フイルム「X-T6」はIBISの性能が8段分に改善される？（デジカメinfo）",
+   "link": "https://digicame-info.com/2026/11/x-t6ibis8.html",
+   "desc": "Fuji Rumorsに、富士フイルム「X-T6」のボディ内手ブレ補正に関する噂が掲載されています。",
+   "date": "2026-11-27T02:18:54+00:00"
+  },
+  {
+   "key": "capa",
+   "title": "Lensbabyも体験できる！ 水咲奈々さんが指導するポートレートワークショップ開催",
+   "link": "https://getnavi.jp/capa/news/511508/",
+   "desc": "写真家の水咲奈々さんが、2026年12月5日と2027年1月16日にポートレート・ワークショップを開催します。 どちらのワークショップも、参加者が1人ずつ順番にモデルを撮影する時間が設けられます。また、水咲...",
+   "date": "2026-11-27T02:15:35+00:00"
   },
   {
    "key": "petapixel",
@@ -45,27 +108,6 @@
    "date": "2026-11-26T11:00:46+00:00"
   },
   {
-   "key": "dcwatch",
-   "title": "Insta360「Ace Pro」新製品のティザー広告が公開 オートフォーカス機構を搭載か 12月1日（火）に海外発表",
-   "link": "https://dc.watch.impress.co.jp/docs/news/2159647.html",
-   "desc": "Insta360の中国語サイトで、アクションカメラ「Ace Pro」シリーズ新モデルのティザー映像が公開されている。現地時間の12月1日（火）20時00分に発表が行われるようだ。",
-   "date": "2026-11-26T09:38:41+00:00"
-  },
-  {
-   "key": "dcwatch",
-   "title": "本日のお買い得商品 インプレスの2027年カレンダーがタイムセール中",
-   "link": "https://dc.watch.impress.co.jp/docs/news/saleitem/2159641.html",
-   "desc": "当サイトを運営するインプレスグループ制作の2027年カレンダー各種が、Amazonでタイムセール中となっている。",
-   "date": "2026-11-26T09:28:04+00:00"
-  },
-  {
-   "key": "dcwatch",
-   "title": "11月29日（日）開催／築城基地航空祭の飛行スケジュールが公開 F-2の模擬空対地射爆撃など",
-   "link": "https://dc.watch.impress.co.jp/docs/news/event/2159592.html",
-   "desc": "航空自衛隊築城基地は、11月29日（日）に開催する「令和8年度築城基地航空祭」のタイムスケジュールを公開している。",
-   "date": "2026-11-26T09:11:29+00:00"
-  },
-  {
    "key": "capa",
    "title": "最大50％OFF！ AmazonブラックフライデーでSUNEASTとLexarのメモリーカードやSSDなど特価販売",
    "link": "https://getnavi.jp/capa/news/511450/",
@@ -73,25 +115,11 @@
    "date": "2026-11-26T08:15:51+00:00"
   },
   {
-   "key": "dcwatch",
-   "title": "富士フイルムGFレンズ3本に最新ファームウェア 電源ON/OFF時の異音を対策",
-   "link": "https://dc.watch.impress.co.jp/docs/news/2159564.html",
-   "desc": "富士フイルムは、GFXシリーズ用交換レンズ「GF30mmF3.5 R WR」「GF45mmF2.8 R WR」「GF63mmF2.8 R WR」の最新ファームウエアを11月26日（木）に公開した。",
-   "date": "2026-11-26T08:12:07+00:00"
-  },
-  {
    "key": "shasha",
    "title": "～ OM SYSTEM OM-3で広がる写真表現 ～ 多彩な機能と自由な視点｜平野はじめ",
    "link": "https://www.kitamura.jp/shasha/omsystem/om-3-10-20261126/",
    "desc": "はじめに ‘‘OM SYSTEM OM-3’’ こんなに身近に存在してたのに、なぜ今まで手にしなかったのだろう。 初めて使用してみた時の率直な感想を、OM-3をまだ触ったことがない方へ向けてお伝えできればと思っています。 […]",
    "date": "2026-11-26T07:00:35+00:00"
-  },
-  {
-   "key": "dcwatch",
-   "title": "世界各地の星空タイムラプスと水中映像をプラネタリウムで KAGAYA氏による「水の惑星 -星の旅シリーズ-」が1月から上映",
-   "link": "https://dc.watch.impress.co.jp/docs/news/2159528.html",
-   "desc": "アーティスト・KAGAYA氏のプラネタリウム作品『水の惑星 -星の旅シリーズ-』の上映が、コニカミノルタプラネタリウム天空 in 東京スカイツリータウン（東京都墨田区押上）で開催される。期間は2027年1月12日（火）からで、上映時間は約40分。",
-   "date": "2026-11-26T06:15:00+00:00"
   },
   {
    "key": "digicame",
@@ -234,27 +262,6 @@
    "date": "2026-11-24T02:15:51+00:00"
   },
   {
-   "key": "digicame",
-   "title": "登場が噂されているニコンの新製品のリスト（デジカメinfo）",
-   "link": "https://digicame-info.com/2026/11/post-1974.html",
-   "desc": "Nikon Rumorsに、Z9IIやフルサイズコンパクトカメラなど、登場が噂されているニコンの新製品のリストが掲載されています。",
-   "date": "2026-11-24T02:15:33+00:00"
-  },
-  {
-   "key": "capa",
-   "title": "動画編集ソフト「Wondershare Filmora 16」で曇り空が簡単に青空になった！ 360°動画の視点変更も思いのまま",
-   "link": "https://getnavi.jp/capa/report/510515/",
-   "desc": "ワンダーシェアーソフトウェアは、動画編集ソフト「Wondershare Filmora 16」を2026年10月に発売した。AIの活用によりワークフロー全体が強化され、部分的なカラー調整ができる「カラーマスク」や、360...",
-   "date": "2026-11-24T01:00:25+00:00"
-  },
-  {
-   "key": "digicame",
-   "title": "ソニー「FE 100-400mm F5.6-8 OSS」は3300万画素までなら優れた性能（デジカメinfo）",
-   "link": "https://digicame-info.com/2026/11/fe-100-400mm-f56-8-oss-1.html",
-   "desc": "SonyAlphaBlogに、ソニーのエントリークラスの超望遠ズーム「FE 100-400mm F5.6-8 OSS」のレビューが掲載されています。",
-   "date": "2026-11-23T15:07:35+00:00"
-  },
-  {
    "key": "shasha",
    "title": "Planarは海辺のポートレートでこそ使いたい！ソニー「Planar T* FE 50mm F1.4 ZA」編",
    "link": "https://www.kitamura.jp/shasha/sony/planar-t-fe-50mm-f1-4-za-20261123/",
@@ -274,13 +281,6 @@
    "link": "https://www.kitamura.jp/shasha/sony/seminar-18-20261121/",
    "desc": "セミナー内容 2026年11月28日(土)、星景写真家の北山輝泰氏を講師にお迎えし、参加無料の『ソニー プロカメラマン オンラインセミナー＆α体験会』を開催します！ 今回のテーマは『ソニーαが広げる星空表現の可能性』。ソ […]",
    "date": "2026-11-21T07:00:17+00:00"
-  },
-  {
-   "key": "shasha",
-   "title": "三脚が当たり前だった私の撮影を変えた、OM SYSTEM OM-3と巡った風景",
-   "link": "https://www.kitamura.jp/shasha/omsystem/om-3-11-20261121/",
-   "desc": "はじめに 私は自然風景を中心に撮影をしており、初めてOM-3を使ったのが約1年前。OM SYSTEMフォトコンテスト2025でグランプリをいただき、現在はOM SYSTEMアンバサダーとして活動しています。以前から高画素 […]",
-   "date": "2026-11-21T02:00:55+00:00"
   }
  ]
 }
